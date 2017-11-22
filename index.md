@@ -4,5 +4,4 @@ title: marcelo luda
 subtitle: Página de proyectos
 ---
 
-Home-page de los proyectos en los que trabajo
-
+Aca voy a alojar los proyectos en los que trabajo. Por ahora, stan los links de la barra de navegación
