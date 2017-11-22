@@ -11,6 +11,3 @@ contenido compartido de proyectos en los que trabajo.
 
 - [scope+lock](https://marceluda.github.io/rp_scope_lock/)
   - Aplicación de osciloscopio y lock-in
-
-
-
