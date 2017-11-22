@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Post de prueba
+subtitle: Por ahora solo para guardar plantilla
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 ---
