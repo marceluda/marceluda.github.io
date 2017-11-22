@@ -36,7 +36,7 @@ avatar: "/img/avatar-icon.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
-paginate_path: paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page:num/"
 
 
 # --- Background colour/image options --- #
