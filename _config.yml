@@ -26,9 +26,10 @@ navbar-links:
   Acerca de: "aboutme"
   Proyectos:
     - Lock-in+PID: "https://marceluda.github.io/rp_lock-in_pid/"
-    - Notas personales: "https://github.com/marceluda/personal_notes"
     - Python para física: "https://marceluda.github.io/python-para-fisicos/"
     - Scope++: "https://github.com/marceluda/rp_scope_lock"
+    - Dummy System: "https://marceluda.github.io/rp_dummy"
+    - Notas personales: "https://github.com/marceluda/personal_notes"
   Blog: "blog/index.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
