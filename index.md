@@ -12,7 +12,7 @@ Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links 
     - Tutoriales en español para hacér tareas cotidianas de física
       ingeniería y ciencias en general en Python.
     - Estado: incipiente. Escrituro de los primeros artículos
-  - [Lock-in+PID](https://marceluda.github.io/python-para-fisicos/):
+  - [Lock-in+PID](https://marceluda.github.io/rp_lock-in_pid/):
     aplicación para [Red Pitaya](https://www.redpitaya.com/)
       - Implementación de un amplificador Lock-in y filtros PID para
         embebido programable en FPGA
@@ -34,4 +34,3 @@ Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links 
       - Una serie de controles Web para usar en el diseño FPGA.
     - La creación de proyectos y la programación Web y en C está complemtamente automatizada, dejando
       al usuario sólo la tarea del diseño en FPGA.
-  
