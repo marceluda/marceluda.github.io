@@ -17,7 +17,7 @@ GEM
     ethon (0.14.0)
       ffi (>= 1.15.0)
     execjs (2.8.1)
-    faraday (1.5.1)
+    faraday (1.8.0)
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
       faraday-excon (~> 1.1)
@@ -25,6 +25,7 @@ GEM
       faraday-net_http (~> 1.0)
       faraday-net_http_persistent (~> 1.1)
       faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords (>= 0.0.4)
     faraday-em_http (1.0.0)
@@ -34,7 +35,8 @@ GEM
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
-    ffi (1.15.3)
+    faraday-rack (1.0.0)
+    ffi (1.15.4)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (163)
@@ -190,14 +192,12 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
-    mini_portile2 (2.5.3)
     minima (2.1.1)
       jekyll (~> 3.3)
     minitest (5.14.4)
     multipart-post (2.1.1)
     net-dns (0.9.0)
-    nokogiri (1.11.7)
-      mini_portile2 (~> 2.5.0)
+    nokogiri (1.12.5-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
@@ -210,7 +210,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rouge (1.11.1)
-    ruby2_keywords (0.0.4)
+    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -227,14 +227,14 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
-    unicode-display_width (1.7.0)
+    unicode-display_width (1.8.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   github-pages (= 163)
   jekyll-paginate
 
 BUNDLED WITH
-   1.16.1
+   2.2.23
