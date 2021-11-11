@@ -17,7 +17,7 @@ Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links 
       - Implementación de un amplificador Lock-in y filtros PID para
         embebido programable en FPGA
       - Estado: Beta bastante avanzado
-  - [Scope++](https://github.com/marceluda/rp_scope_lock) aplicación
+  - [Scope++](https://github.com/marceluda/rp_scope_plus) aplicación
     para [Red Pitaya](https://www.redpitaya.com/):
     - Versión extendida de la aplicación de osciloscopio Libre de la comunidad de Red Pitaya.
     - Incluye Generador de funciones, filtros PID elementales y osciloscopio.
