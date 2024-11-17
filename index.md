@@ -4,9 +4,27 @@ title: marceluda
 subtitle: Página de proyectos
 ---
 
+# Presentación / About
+**Físico**
+
+Óptica, Metrología, Física atómica, Cuántica e Instrumentación
+
+*Optics, Metrology, Atomic physics and Instrumentation*
+
+[ORCID:0000-0002-1850-2282](https://orcid.org/0000-0002-1850-2282) -
+[G. Scholar](https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao) -
+[R. Gate](https://www.researchgate.net/profile/Marcelo-Luda)
+
+**Grupos de trabajo / Work Groups**
+ - [CITEDEF-Láseres Moleculares](https://unidef.conicet.gov.ar/laboratorios-la/division-laseres-moleculares/)
+ - [LIAF-Exactas-UBA](http://qufiba.df.uba.ar/)
+
+
+------
+
 Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links de la barra de navegación.
 
-## Proyectos en curso:
+## Proyectos
 
   - [Python para hacer física](https://marceluda.github.io/python-para-fisicos/)
     - Tutoriales en español para hacér tareas cotidianas de física
