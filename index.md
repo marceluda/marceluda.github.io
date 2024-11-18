@@ -7,14 +7,18 @@ subtitle: Página de proyectos
 # Presentación / About
 **Físico**
 <center>
+ <p>
 Óptica, Metrología, Física atómica, Cuántica e Instrumentación
-
-*Optics, Metrology, Atomic physics, Quantum physics and Instrumentation*
-
-[ORCID](https://orcid.org/0000-0002-1850-2282) -
-[G. Scholar](https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao) -
-[R. Gate](https://www.researchgate.net/profile/Marcelo-Luda)
-
+<br />
+<i>Optics, Metrology, Atomic physics, Quantum physics and Instrumentation</i>
+</p>
+<p>
+ <a href="https://orcid.org/0000-0002-1850-2282" class="btn" role="button">ORCID</a>
+ -
+ <a href="https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao" class="btn" role="button">G. Scholar</a>
+ -
+ <a href="https://www.researchgate.net/profile/Marcelo-Luda" class="btn" role="button">R. Gate</a>
+</p>
 </center>
 
 **Grupos de trabajo / Work Groups**
