@@ -5,7 +5,7 @@ subtitle: Página de proyectos
 ---
 
 # Presentación / About
-**Físico**
+**Físico / Physicist**
 <center>
  <p>
 Óptica, Metrología, Física atómica, Cuántica e Instrumentación
