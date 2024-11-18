@@ -6,14 +6,16 @@ subtitle: Página de proyectos
 
 # Presentación / About
 **Físico**
-
+<center>
 Óptica, Metrología, Física atómica, Cuántica e Instrumentación
 
-*Optics, Metrology, Atomic physics and Instrumentation*
+*Optics, Metrology, Atomic physics, Quantum physics and Instrumentation*
 
-[ORCID:0000-0002-1850-2282](https://orcid.org/0000-0002-1850-2282) -
+[ORCID](https://orcid.org/0000-0002-1850-2282) -
 [G. Scholar](https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao) -
 [R. Gate](https://www.researchgate.net/profile/Marcelo-Luda)
+
+</center>
 
 **Grupos de trabajo / Work Groups**
  - [CITEDEF-Láseres Moleculares](https://unidef.conicet.gov.ar/laboratorios-la/division-laseres-moleculares/)
