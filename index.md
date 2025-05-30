@@ -13,11 +13,11 @@ subtitle: Página de proyectos
 <i>Optics, Metrology, Atomic physics, Quantum physics and Instrumentation</i>
 </p>
 <p>
- <a href="https://orcid.org/0000-0002-1850-2282" class="btn" role="button">ORCID</a>
+ <a href="https://orcid.org/0000-0002-1850-2282" class="btn btn-primary btn-sm" role="button">ORCID</a>
  -
- <a href="https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao" class="btn" role="button">G. Scholar</a>
+ <a href="https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao" class="btn btn-primary btn-sm" role="button">G. Scholar</a>
  -
- <a href="https://www.researchgate.net/profile/Marcelo-Luda" class="btn" role="button">R. Gate</a>
+ <a href="https://www.researchgate.net/profile/Marcelo-Luda" class="btn btn-primary btn-sm" role="button">R. Gate</a>
 </p>
 </center>
 
