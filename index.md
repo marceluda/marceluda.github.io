@@ -58,3 +58,11 @@ Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links 
       - Una serie de controles Web para usar en el diseño FPGA.
     - La creación de proyectos y la programación Web y en C está complemtamente automatizada, dejando
       al usuario sólo la tarea del diseño en FPGA.
+
+
+------
+
+## Divulgación científica
+
+- Charla para escuelas secundarias: [Ciencia y tecnologías estratégicas en la Argentina del siglo XX]({{ site.baseurl }}/divulgación/CyTenArgXX)
+- Otros recursos de divulgación: [Otros recursos]({{ site.baseurl }}/divulgación)
