@@ -9,6 +9,6 @@ subtitle: Material para escuela secundaria
 </a>
 
 <a href="{{ site.url }}divulgación/CyTenArgXX/línea de tiempo.pdf">
-    <img class="avatar-img" src="{{ site.url }}divulgación/CyTenArgXX/línea de tiempo.png" />
+    <img class="avatar-img" src="{{ site.url }}/divulgación/CyTenArgXX/línea de tiempo.png" />
 </a>
 
