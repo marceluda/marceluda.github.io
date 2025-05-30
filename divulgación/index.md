@@ -13,11 +13,9 @@ Esta es una charla que originalmente fue armada para un evento en Tecnópolis pr
 
 Versiónes:
 
-- <a href="{{ site.baseurl }}/tecnopolis" class="btn btn-primary btn-lg" role="button">Original Tecnópolis</a>
-
-<br />
-
-- <a href="{{ site.baseurl }}/tiempo_relojes_atomos_laser" class="btn btn-primary btn-lg" role="button">Posterior</a>
+<a href="{{ site.baseurl }}/tecnopolis" class="btn btn-primary btn-lg" role="button">Original Tecnópolis</a>
+&nbsp;&nbsp;-&nbsp;&nbsp;
+<a href="{{ site.baseurl }}/tiempo_relojes_atomos_laser" class="btn btn-primary btn-lg" role="button">Posterior</a>
 
 # Ciencia y tecnologías estratégicas en la Argentina del siglo XX
 
