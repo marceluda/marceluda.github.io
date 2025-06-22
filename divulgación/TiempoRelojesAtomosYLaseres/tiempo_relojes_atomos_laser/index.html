@@ -1,0 +1,321 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Tiempo, relojes, átomos y lásers</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+		<style>
+			.inicio {
+				background-color: rgba(0, 0, 0, 0.7);
+				animation: fadeIn_inicio 2s infinite;
+			};
+
+			@keyframes fadeIn_inicio {
+				0%   { opacity: 0; }
+				50%  { opacity: 1; }
+				100% { opacity: 0; }
+			};
+
+			@keyframes blink2 {
+				0%   { color: rgba(255, 0, 0, 0.0); }
+				100% { color: rgba(255, 0, 0, 1.0); }
+			};
+
+			p.blink_inicio {
+				animation: blink 2s infinite;
+			};
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
+				<!-- Diapo 1  ------------------------------ -->
+				<section  data-background="material/inicio.jpg">
+						<h2 class="inicio r-fit-text">
+							Tiempo, relojes, átomos y láseres
+						</h2>
+						<img src="material/diapo_01.svg" width="1000">
+						<div style="width: 50%; margin: auto;">
+							<p class="inicio">Marcelo Luda</p>
+							<p class="inicio">Cidetef-MinDef &nbsp; | &nbsp; Exactas-UBA</p>
+					  </div>
+				</section>
+
+				<!-- Diapo 2  ------------------------------ -->
+				<section  data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2"	>
+						<h2>¿Que es el tiempo?</h2>
+						<p>Veamos cómo experimentamos el paso del tiempo</p>
+				</section>
+
+				<!-- Diapo 2  ------------------------------ -->
+				<section   data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2"	>
+						<h1>Medir el tiempo:</h1>
+
+						<ul>
+							<li><strong>Fenómeno periódico (repetitivo)</strong></li>
+							<li><strong>Contar </strong></li>
+						</ul>
+				</section>
+
+				<!-- Diapo 3  ------------------------------ -->
+				<section  data-background-video="material/timelapse_rotacion.mp4"  data-background-video-loop data-background-video-muted	>
+						<h2>Calendario</h2>
+						<div style="display: flex">
+								<div class="r-stack" style="width: 80%;  margin: auto;">
+								  <img class="fragment fade-in-then-out" data-fragment-index="0" src="material/estaciones.png" width="60%" >
+									<h2 class="fragment fade-left	" data-fragment-index="1">
+											¿Cual es el fenómeno periódico?
+									</h2>
+								</div>
+						</div>
+
+
+				</section>
+
+				<section  data-background-video="material/translacion3.mp4"  data-background-video-loop data-background-video-muted	>
+
+				</section>
+
+				<!-- Diapo 4  ------------------------------ -->
+				<section data-background-video="material/darwin2.mp4"  data-background-video-loop data-background-video-muted		>
+						<h2 style="-webkit-text-stroke: 3px black;">Navegación</h2>
+
+				</section>
+
+				<!-- Diapo 5  ------------------------------ -->
+				<section data-background-video="material/reloj_mecanico_02.mp4"  data-background-video-loop data-background-video-muted		>
+						<h2 style="-webkit-text-stroke: 3px black;">Relojes mecánicos</h2>
+				</section>
+
+				<!-- Diapo 6  ------------------------------ -->
+				<section  data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2"	 >
+						<h2>Relojes de péndulo</h2>
+				</section>
+
+
+				<!-- Diapo 6  ------------------------------ -->
+
+				<section  data-background-color="black">
+						<h2>Relojes de péndulo</h2>
+
+						<div style="width: 500px; height: 700px; display:inline-block;  vertical-align: top;">
+							<video style="width:100%;" data-autoplay loop muted>
+								<source src="material/pendulo_02.mp4" type="video/mp4">
+							</video>
+						</div>
+						<div style="width: 400px; display:inline-block;">
+								<img   src="material/reloj_pendulo.png" width="70%" >
+						</div>
+				</section>
+
+				<!-- Diapo 7  ------------------------------ -->
+				<section data-background-video="material/train_lumier.mp4"  data-background-video-loop data-background-video-muted	>
+					<div style="display: flex">
+							<div style="width: 29%;  float: left; align-self: center;">
+									<h3>Trenes</h3>
+									<hr/>
+									<p>Expansión de la red ferroviaria en Argentina</p>
+									<hr/>
+									<p>1913</p>
+							</div>
+							<div style="width: 70%;  float: right; align-self: center;">
+									<img   src="material/trenes_1913_03.png" width="75%" >
+							</div>
+					<div>
+				</section>
+
+				<!-- Diapo 8  ------------------------------ -->
+				<section  data-background-video="material/tren_crash.mp4"  data-background-video-loop data-background-video-muted	>
+				</section>
+
+
+				<!-- Diapo 8  ------------------------------ -->
+				<section  data-background="material/mapa_gravedad_viaje.jpeg" data-background-color="white" data-background-opacity="0.8" >
+					<h2>Primer reloj en América</h2>
+					<h3>S. XVII - importado de Países bajos</h3>
+					<div class="r-stack">
+							<img class="fragment fade-in"   src="material/gravedad.png" width="65%" >
+							<h3 class="fragment fade-in" style='background-color: white;' >Para tener control sobre una tecnología hay que saber cómo funciona</h3>
+					</div>
+				</section>
+
+
+
+
+				<!-- Diapo 9  ------------------------------ -->
+				<section   data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2"	>
+						<h1>Problemas:</h1>
+						<div style="width: 70%;  margin-right: auto; margin-left: auto; ">
+								<ul>
+									<li><strong>¿Cómo podemos tener osciladores idénticos? </strong></li>
+									<li><strong> ¿Cómo podemos hacer que no les afecte el lugar donde están? </strong></li>
+								</ul>
+					</div>
+				</section>
+
+				<!-- Diapo 9  ------------------------------ -->
+				<section   data-background="material/inicio.jpg" data-background-color="white" data-background-opacity="0.2"	>
+					<h2>Relojes de cuarzo (cristal)</h2>
+					<img src="material/cristal.svg" width="100%" >
+
+				</section>
+
+
+				<!-- Diapo 10  ------------------------------ -->
+				<section data-background-video="material/atomic_zoom.mp4"  data-background-video-loop data-background-video-muted data-transition="fade-out">
+						<h2>Átomos</h2>
+				</section>
+
+				<!-- Diapo 11  ------------------------------ -->
+				<section data-background-video="material/atomic_zoom.mp4"  data-background-video-loop data-background-video-muted data-transition="fade-in fade-out">
+						<h3>Tabla periódica de los elementos</h3>
+
+						<div class="r-stack">
+						  <img class="fragment fade-out"  data-fragment-index="1" src="material/tabla_periodica_trans.svg" width="100%" >
+						  <img class="fragment fade-in"   data-fragment-index="1" src="material/tabla_periodica_trans2.svg" width="100%" >
+						</div>
+				</section>
+
+
+				<!-- Diapo 12  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+
+						<div class="r-stack">
+							<h3  class="fragment fade-out"  data-fragment-index="1">¿Donde están las oscilaciones en los átomos?</h3>
+						  <img class="fragment fade-in-then-out"  data-fragment-index="1" src="material/espectro_EM.svg"  width="100%" >
+						  <img class="fragment fade-in"   data-fragment-index="2" src="material/espectro_EM2.svg" width="100%" >
+						</div>
+				</section>
+
+				<!-- Diapo 13  ------------------------------ -->
+				<!-- <section  data-background-color="rgb(13, 19, 22)">
+						<h2>Interacción con luz</h2>
+						<video style="width:50%;" data-autoplay loop muted>
+							<source src="material/atomo_bohr.mp4" type="video/mp4">
+						</video>
+				</section> -->
+
+				<!-- Diapo 14  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+						<h2>Reloj atómico (Citedef)</h2>
+						<div style="display: flex; align-items: center;">
+							<div style="width: 60%; float: left;">
+								<img  src="material/citedef1.svg"  width="90%" >
+						  </div>
+							<div style="width: 40%; float: right;">
+								<video style="width:100%;" data-autoplay loop muted>
+									<source src="material/rb.mp4" type="video/mp4">
+								</video>
+							</div>
+						</div>
+
+				</section>
+
+				<!-- Diapo 15  ------------------------------ -->
+				<!-- <section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+					<h2>Reloj de rubidio</h2>
+					<div style="width: 380px; height: 500px; display:inline-block;  vertical-align: top;">
+						<img  src="material/citedef2.svg"  width="100%" >
+					</div>
+					<div style="width: 520px; display:inline-block;">
+						<video style="width:100%;" data-autoplay loop muted>
+							<source src="material/rb.mp4" type="video/mp4">
+						</video>
+					</div>
+				</section> -->
+
+
+				<!-- Diapo 16  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+						<h2>Trampa de iones para relojes ópticos (LIAF-UBA)</h2>
+						<div style="display: flex; align-items: center; justify-content: center;">
+							<div style="width: 30%; float: left;">
+								<img  src="material/liaf/trampa_Yb_liaf.jpeg"  width="85%" >
+						  </div>
+							<div style="width: 30%; float: left;">
+								<img  src="material/liaf/Yb_trampa2.jpeg"  width="90%" >
+						  </div>
+							<div style="width: 30%; float: left;">
+								<video style="width:100%;" data-autoplay loop muted>
+									<source src="material/liaf/video.mp4" type="video/mp4">
+								</video>
+								<br />
+								<img  src="material/liaf/Yb_color.png"  width="100%" >
+							</div>
+						</div>
+
+				</section>
+
+
+				<!-- Diapo 16  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+						<h2>¿Para que queremos relojes tan precisos?</h2>
+				</section>
+
+				<!-- Diapo 17  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+						<h2>Aplicaciones</h2>
+						<img  src="material/aplica.svg"  width="80%" >
+				</section>
+
+				<!-- Diapo 17  ------------------------------ -->
+				<section data-background-color="white" >
+						<h2>Comunicaciones</h2>
+						<img  src="material/comunicaciones.svg"  width="80%" >
+				</section>
+
+				<!-- Diapo 18  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="white" data-background-opacity="0.2">
+						<h2>Unidades de medida</h2>
+						<img  src="material/SI.svg"  width="40%" >
+				</section>
+
+				<!-- Diapo 18  ------------------------------ -->
+				<section data-background="material/inicio.jpg" data-background-color="black" data-background-opacity="0.2">
+						<h3>Soberanía tecnológica</h3>
+						<h2 class="fragment fade-in" >Hacer Ciencia y Tecnología para el país también es defender la patria</h2>
+				</section>
+
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				//width: 960,
+			  //height: 700,
+				width: 1200,
+			  height: 700,
+
+			  // Factor of the display size that should remain empty around
+			  // the content
+			  margin: 0.04,
+
+			  // Bounds for smallest/largest possible scale to apply to content
+			  minScale: 0.2,
+			  maxScale: 2.0,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
