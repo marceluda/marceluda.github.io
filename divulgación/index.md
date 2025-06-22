@@ -19,16 +19,17 @@ Anteriores:
 
 <ul>
     <li>
-        <a href="{{ site.baseurl }}/tiempo_relojes_atomos_laser">San Martin, Feria +Ciencia+Futuro (2023)</a>
+        <a href="{{ site.baseurl }}/divulgación/TiempoRelojesAtomosYLaseres/tiempo_relojes_atomos_laser/">San Martin, Feria +Ciencia+Futuro (2023)</a>
     </li>
     <li>
-        <a href="{{ site.baseurl }}/tecnopolis">Tecnópolis (2022)</a>
+        <a href="{{ site.baseurl }}/divulgación/TiempoRelojesAtomosYLaseres/tecnopolis/">Tecnópolis (2022)</a>
     </li>
 </ul>
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQiVpE4wPJ4?si=768PFH-2pcFFziHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
-
-&nbsp;&nbsp;-&nbsp;&nbsp;
 
 # Ciencia y tecnologías estratégicas en la Argentina del siglo XX
 
