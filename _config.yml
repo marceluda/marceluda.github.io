@@ -30,7 +30,7 @@ navbar-links:
     - Scope++: "https://github.com/marceluda/rp_scope_lock"
     - Dummy System: "https://marceluda.github.io/rp_dummy"
     - Notas personales: "https://github.com/marceluda/personal_notes"
-  Blog: "blog/index.html"
+  Divulgación: "divulgación/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
