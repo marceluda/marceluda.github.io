@@ -15,7 +15,7 @@ La charla repasa algunos hitos de la historia de nuestro país en términos de i
 
 **Línea de tiempo del contexto mundial**
 
-<a href="{{ site.url }}divulgación/CyTenArgXX/línea de tiempo.pdf">
+<a href="{{ site.url }}/divulgación/CyTenArgXX/línea de tiempo.pdf">
     <img class="avatar-img" src="{{ site.url }}/divulgación/CyTenArgXX/línea de tiempo.png" />
 </a>
 
