@@ -4,9 +4,33 @@ title: marceluda
 subtitle: Página de proyectos
 ---
 
+# Presentación / About
+**Físico / Physicist**
+<center>
+ <p>
+Óptica, Metrología, Física atómica, Cuántica e Instrumentación
+<br />
+<i>Optics, Metrology, Atomic physics, Quantum physics and Instrumentation</i>
+</p>
+<p>
+ <a href="https://orcid.org/0000-0002-1850-2282" class="btn btn-primary btn-sm" role="button">ORCID</a>
+ -
+ <a href="https://scholar.google.com/citations?user=7qeL4T8AAAAJ&hl=es&oi=ao" class="btn btn-primary btn-sm" role="button">G. Scholar</a>
+ -
+ <a href="https://www.researchgate.net/profile/Marcelo-Luda" class="btn btn-primary btn-sm" role="button">R. Gate</a>
+</p>
+</center>
+
+**Grupos de trabajo / Work Groups**
+ - [CITEDEF-Láseres Moleculares](https://unidef.conicet.gov.ar/laboratorios-la/division-laseres-moleculares/)
+ - [LIAF-Exactas-UBA](http://qufiba.df.uba.ar/)
+
+
+------
+
 Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links de la barra de navegación.
 
-## Proyectos en curso:
+## Proyectos
 
   - [Python para hacer física](https://marceluda.github.io/python-para-fisicos/)
     - Tutoriales en español para hacér tareas cotidianas de física
@@ -34,3 +58,11 @@ Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links 
       - Una serie de controles Web para usar en el diseño FPGA.
     - La creación de proyectos y la programación Web y en C está complemtamente automatizada, dejando
       al usuario sólo la tarea del diseño en FPGA.
+
+
+------
+
+## Divulgación científica
+
+- Charla para escuelas secundarias: [Ciencia y tecnologías estratégicas en la Argentina del siglo XX]({{ site.baseurl }}/divulgación/CyTenArgXX)
+- Otros recursos de divulgación: [Otros recursos]({{ site.baseurl }}/divulgación)

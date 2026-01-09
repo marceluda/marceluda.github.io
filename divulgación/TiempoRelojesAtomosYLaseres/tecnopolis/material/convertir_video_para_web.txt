@@ -1,0 +1,11 @@
+
+
+ffmpeg -an -i Rb_abs.mp4 -vcodec libx264 -pix_fmt yuv420p -profile:v baseline -level 3 rb.mp4
+
+
+ffmpeg -an -i Rb_abs.mp4 -vcodec libx264 -pix_fmt yuv420p -profile:v baseline -level 3 -ss 00:01:00 -to 00:02:00 rb.mp4
+
+
+Tomado de:
+https://gist.github.com/Vestride/278e13915894821e1d6f
+
