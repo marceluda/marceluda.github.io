@@ -1,0 +1,25 @@
+# Tarjetas de la sección Python para física (temas de "Python para Labos").
+- nombre: Introducción a Python
+  descripcion: Programación y cálculo básico.
+  imagen: /img/cards/py_01_intro_python.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/01_intro_python
+- nombre: Análisis y ajuste lineal
+  descripcion: Estadística básica, histogramas y ajustes lineales.
+  imagen: /img/cards/py_02_intro_analisis.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/02_intro_analisis
+- nombre: Ajuste no lineal
+  descripcion: Ajuste de modelos no lineales a datos.
+  imagen: /img/cards/py_03_ajustes.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/03_ajustes
+- nombre: Herramientas útiles
+  descripcion: Simulaciones, FFT y otras herramientas de análisis.
+  imagen: /img/cards/py_04_herramientas.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/04_herramientas
+- nombre: Instrumentación
+  descripcion: Control remoto de instrumentos y adquisición de datos.
+  imagen: /img/cards/py_05_instrumentacion.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/05_instrumentacion
+- nombre: Gráficos avanzados
+  descripcion: Subplots, ejes dobles, escalas log y anotaciones.
+  imagen: /img/cards/py_06_graficos.jpg
+  url: https://marceluda.github.io/python-para-fisicos/tuto/labo2/06_graficos_avanzandos

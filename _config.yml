@@ -23,14 +23,31 @@ description: Una web para publicar proyectos y algunas cosas más
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca de: "aboutme"
-  Proyectos:
+  Red Pitaya:
+    - Todos los proyectos: "redpitaya/"
     - Lock-in+PID: "https://marceluda.github.io/rp_lock-in_pid/"
-    - Python para física: "https://marceluda.github.io/python-para-fisicos/"
-    - Scope++: "https://github.com/marceluda/rp_scope_lock"
-    - Dummy System: "https://marceluda.github.io/rp_dummy"
-    - Notas personales: "https://github.com/marceluda/personal_notes"
-  Divulgación: "divulgación/"
+    - Lock-in+PID H: "https://github.com/marceluda/rp_lock-in_pid_h"
+    - Lock-in+PID H2: "https://github.com/marceluda/rp_lock-in_pid_h2"
+    - Lock-in+PID H HF: "https://github.com/marceluda/rp_lock-in_pid_h_hf"
+    - Scope++: "https://github.com/marceluda/rp_scope_plus"
+    - Dummy System: "https://marceluda.github.io/rp_dummy/"
+    - Dummy Simulator: "https://github.com/marceluda/rp_dummy_simulator"
+  Divulgación:
+    - Todos los recursos: "divulgación/"
+    - "Tiempo, Relojes, Átomos y Láseres (Semana de la Física 2025)": "divulgación/TiempoRelojesAtomosYLaseres/SemFis2025/"
+    - "Tiempo, Relojes, Átomos y Láseres (San Martín 2023)": "divulgación/TiempoRelojesAtomosYLaseres/tiempo_relojes_atomos_laser/"
+    - "Tiempo, Relojes, Átomos y Láseres (Tecnópolis 2022)": "divulgación/TiempoRelojesAtomosYLaseres/tecnopolis/"
+    - Ciencia y tecnologías estratégicas en la Argentina del siglo XX: "divulgación/CyTenArgXX/"
+  Python:
+    - Python para física (sitio): "https://marceluda.github.io/python-para-fisicos/"
+    - Introducción a Python: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/01_intro_python"
+    - Análisis y ajuste lineal: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/02_intro_analisis"
+    - Ajuste no lineal: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/03_ajustes"
+    - Herramientas útiles: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/04_herramientas"
+    - Instrumentación: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/05_instrumentacion"
+    - Gráficos avanzados: "https://marceluda.github.io/python-para-fisicos/tuto/labo2/06_graficos_avanzandos"
+  Apuntes: "apuntes/"
+  Acerca de: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

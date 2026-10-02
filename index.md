@@ -26,43 +26,49 @@ subtitle: Página de proyectos
  - [LIAF-Exactas-UBA](http://qufiba.df.uba.ar/)
 
 
-------
-
-Acá voy a alojar los proyectos en los que trabajo. Por ahora, están los links de la barra de navegación.
-
-## Proyectos
-
-  - [Python para hacer física](https://marceluda.github.io/python-para-fisicos/)
-    - Tutoriales en español para hacér tareas cotidianas de física
-      ingeniería y ciencias en general en Python.
-    - Estado: incipiente. Escrituro de los primeros artículos
-  - [Lock-in+PID](https://marceluda.github.io/rp_lock-in_pid/):
-    aplicación para [Red Pitaya](https://www.redpitaya.com/)
-      - Implementación de un amplificador Lock-in y filtros PID para
-        embebido programable en FPGA
-      - Estado: Beta bastante avanzado
-  - [Scope++](https://github.com/marceluda/rp_scope_plus) aplicación
-    para [Red Pitaya](https://www.redpitaya.com/):
-    - Versión extendida de la aplicación de osciloscopio Libre de la comunidad de Red Pitaya.
-    - Incluye Generador de funciones, filtros PID elementales y osciloscopio.
-    - Basada en [scope_release-v0.95](https://github.com/RedPitaya/RedPitaya/tree/release-v0.95/apps-free/scope)
-  - [Dummy System](https://marceluda.github.io/rp_dummy), entorno de desarrollo de
-    aplicaciones para [Red Pitaya](https://www.redpitaya.com/):
-    - Entorno de programación con fines educativos.
-    - Diseñado para simplificar el desarrollo de aplicaciones para RedPitaya con entorno web.
-    - El sistema permite implementar de forma automatizada una aplicación para Red Pitaya que contenga:
-      - El módulo de osciloscopio
-      - El módulo de generador de funciones
-      - El módulo de filtros PID
-      - Un módulo Dummy a ser programado por el usuario, con la entradas y salidas ya programadas
-      - Una serie de controles Web para usar en el diseño FPGA.
-    - La creación de proyectos y la programación Web y en C está complemtamente automatizada, dejando
-      al usuario sólo la tarea del diseño en FPGA.
-
 
 ------
 
-## Divulgación científica
+<div class="home-section" markdown="1">
 
-- Charla para escuelas secundarias: [Ciencia y tecnologías estratégicas en la Argentina del siglo XX]({{ site.baseurl }}/divulgación/CyTenArgXX)
-- Otros recursos de divulgación: [Otros recursos]({{ site.baseurl }}/divulgación)
+## Proyectos Red Pitaya
+
+Aplicaciones para la plataforma [Red Pitaya](https://www.redpitaya.com/): amplificadores lock-in, filtros PID, osciloscopio y entornos de desarrollo FPGA.
+
+<div class="text-center"><a href="{{ site.baseurl }}/redpitaya/" class="btn btn-primary" role="button">Ver todos los proyectos</a></div>
+
+{% include card-grid.html items=site.data.redpitaya logo=true %}
+
+</div>
+
+<div class="home-section" markdown="1">
+
+## Divulgación
+
+Materiales de charlas y eventos de divulgación científica.
+
+<div class="text-center"><a href="{{ site.baseurl }}/divulgación/" class="btn btn-primary" role="button">Ver recursos de divulgación</a></div>
+
+{% include card-grid.html items=site.data.divulgacion %}
+
+</div>
+
+<div class="home-section" markdown="1">
+
+## Python para física
+
+Tutoriales en español para usar Python en tareas cotidianas del laboratorio de física: análisis de datos, ajustes, instrumentación y gráficos.
+
+<div class="text-center"><a href="https://marceluda.github.io/python-para-fisicos/" class="btn btn-primary" role="button">Ir a Python para física</a></div>
+
+{% include card-grid.html items=site.data.python %}
+
+</div>
+
+<div class="home-section" markdown="1">
+
+## Apuntes de física
+
+<div class="alert alert-info" role="alert">Próximamente habrá material en esta sección.</div>
+
+</div>

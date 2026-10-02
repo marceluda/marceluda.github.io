@@ -6,6 +6,10 @@ subtitle: Links y materiales varios
 
 Materiales utilizados en charlas o eventos de divulgación científica.
 
+{% include card-grid.html items=site.data.divulgacion %}
+
+---------------------
+
 
 # Tiempo, Relojes, Átomos y Lásers
 

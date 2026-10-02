@@ -1,0 +1,37 @@
+# Tarjetas de la sección Red Pitaya.
+# url: externa (https://...) o interna (empezando con /)
+- nombre: Lock-in+PID
+  descripcion: Dos amplificadores lock-in (cuadrado rápido y armónico lento), filtros PID y control de lock.
+  imagen: /img/cards/rp_lock-in_pid.png
+  url: https://marceluda.github.io/rp_lock-in_pid/
+  repo: https://github.com/marceluda/rp_lock-in_pid
+- nombre: Lock-in+PID H
+  descripcion: Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
+  imagen: /img/cards/rp_lock-in_pid_h.png
+  url: https://github.com/marceluda/rp_lock-in_pid_h
+  repo: https://github.com/marceluda/rp_lock-in_pid_h
+- nombre: Lock-in+PID H2
+  descripcion: Demoduladores lock-in con un mismo oscilador local, filtros PID y control de lock.
+  imagen: /img/cards/rp_lock-in_pid_h2.png
+  url: https://github.com/marceluda/rp_lock-in_pid_h2
+  repo: https://github.com/marceluda/rp_lock-in_pid_h2
+- nombre: Lock-in+PID H HF
+  descripcion: Variante de Lock-in+PID H que llega hasta 1 MHz.
+  imagen: /img/cards/rp_lock-in_pid_h_hf.png
+  url: https://github.com/marceluda/rp_lock-in_pid_h_hf
+  repo: https://github.com/marceluda/rp_lock-in_pid_h_hf
+- nombre: Scope++
+  descripcion: Osciloscopio con interfaz mejorada, generador de funciones y PID elementales.
+  imagen: /img/cards/rp_scope_plus.png
+  url: https://github.com/marceluda/rp_scope_plus
+  repo: https://github.com/marceluda/rp_scope_plus
+- nombre: Dummy System
+  descripcion: Entorno para armar rápido Apps con diseño FPGA (Vivado 2015.2).
+  imagen: /img/cards/rp_dummy.png
+  url: https://marceluda.github.io/rp_dummy/
+  repo: https://github.com/marceluda/rp_dummy
+- nombre: Dummy Simulator
+  descripcion: Simulador de picos espectrales para probar barridos y lockeos.
+  imagen: /img/cards/rp_dummy_simulator.png
+  url: https://github.com/marceluda/rp_dummy_simulator
+  repo: https://github.com/marceluda/rp_dummy_simulator
