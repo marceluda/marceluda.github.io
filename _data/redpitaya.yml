@@ -8,17 +8,17 @@
 - nombre: Lock-in+PID H
   descripcion: Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
   imagen: /img/cards/rp_lock-in_pid_h.png
-  url: https://github.com/marceluda/rp_lock-in_pid_h
+  url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h
   repo: https://github.com/marceluda/rp_lock-in_pid_h
 - nombre: Lock-in+PID H2
   descripcion: Demoduladores lock-in con un mismo oscilador local, filtros PID y control de lock.
   imagen: /img/cards/rp_lock-in_pid_h2.png
-  url: https://github.com/marceluda/rp_lock-in_pid_h2
+  url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2
   repo: https://github.com/marceluda/rp_lock-in_pid_h2
 - nombre: Lock-in+PID H HF
   descripcion: Variante de Lock-in+PID H que llega hasta 1 MHz.
   imagen: /img/cards/rp_lock-in_pid_h_hf.png
-  url: https://github.com/marceluda/rp_lock-in_pid_h_hf
+  url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf
   repo: https://github.com/marceluda/rp_lock-in_pid_h_hf
 - nombre: Scope++
   descripcion: Osciloscopio con interfaz mejorada, generador de funciones y PID elementales.

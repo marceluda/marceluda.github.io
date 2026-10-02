@@ -22,19 +22,19 @@ además de filtros PID y control de lock, embebidos en la FPGA.
 
 ## Lock-in+PID H
 
-[Repositorio](https://github.com/marceluda/rp_lock-in_pid_h)
+[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h)
 
 Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 
 ## Lock-in+PID H2
 
-[Repositorio](https://github.com/marceluda/rp_lock-in_pid_h2)
+[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h2)
 
 Demoduladores lock-in que comparten un mismo oscilador local, filtros PID y control de lock.
 
 ## Lock-in+PID H HF
 
-[Repositorio](https://github.com/marceluda/rp_lock-in_pid_h_hf)
+[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h_hf)
 
 Variante de Lock-in+PID H que llega hasta 1 MHz.
 
