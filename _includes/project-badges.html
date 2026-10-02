@@ -1,0 +1,12 @@
+{%- comment -%}
+  Badges de shields.io para el sitio web y el repo de un proyecto. Uso:
+    {% include project-badges.html repo="marceluda/rp_dummy" site="https://marceluda.github.io/rp_dummy/" name="Dummy System" %}
+  site es opcional.
+{%- endcomment -%}
+{%- assign repo_name = include.repo | split: "/" | last -%}
+<p class="project-badges">
+{%- if include.site -%}
+<a href="{{ include.site }}"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message={{ include.name | url_encode }}&color=0085A1&logo=githubpages&logoColor=white" /></a>
+{%- endif -%}
+<a href="https://github.com/{{ include.repo }}"><img alt="GitHub repo" src="https://img.shields.io/static/v1?label=GitHub&message={{ repo_name | url_encode }}&color=181717&logo=github" /></a>
+</p>

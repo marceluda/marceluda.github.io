@@ -847,3 +847,13 @@ td.gutter {
     display: none;
   }
 }
+
+/* Badges de shields.io en /redpitaya/ */
+.project-badges a {
+  display: inline-block;
+  margin: 0 6px 4px 0;
+  text-decoration: none !important;
+}
+.project-badges img {
+  vertical-align: middle;
+}

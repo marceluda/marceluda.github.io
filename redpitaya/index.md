@@ -15,32 +15,32 @@ herramientas útiles en un laboratorio de óptica y física atómica.
 
 ## Lock-in+PID
 
-[Sitio](https://marceluda.github.io/rp_lock-in_pid/) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid)
+{% include project-badges.html repo="marceluda/rp_lock-in_pid" site="https://marceluda.github.io/rp_lock-in_pid/" name="Lock-in+PID" %}
 
 Es la App original. Incluye dos amplificadores lock-in, uno cuadrado y rápido y otro armónico y lento,
 además de filtros PID y control de lock, embebidos en la FPGA.
 
 ## Lock-in+PID H
 
-[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h)
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_h" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h" name="Lock-in+PID H" %}
 
 Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 
 ## Lock-in+PID H2
 
-[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h2)
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
 
 Demoduladores lock-in que comparten un mismo oscilador local, filtros PID y control de lock.
 
 ## Lock-in+PID H HF
 
-[Sitio](https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf) · [Repositorio](https://github.com/marceluda/rp_lock-in_pid_h_hf)
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_h_hf" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf" name="Lock-in+PID H HF" %}
 
 Variante de Lock-in+PID H que llega hasta 1 MHz.
 
 ## Scope++
 
-[Repositorio](https://github.com/marceluda/rp_scope_plus)
+{% include project-badges.html repo="marceluda/rp_scope_plus" %}
 
 Versión extendida de la aplicación de osciloscopio libre de la comunidad de Red Pitaya, con interfaz mejorada.
 
@@ -49,7 +49,7 @@ Versión extendida de la aplicación de osciloscopio libre de la comunidad de Re
 
 ## Dummy System
 
-[Sitio](https://marceluda.github.io/rp_dummy/) · [Repositorio](https://github.com/marceluda/rp_dummy)
+{% include project-badges.html repo="marceluda/rp_dummy" site="https://marceluda.github.io/rp_dummy/" name="Dummy System" %}
 
 Entorno de desarrollo de aplicaciones para Red Pitaya con fines educativos, basado en Vivado 2015.2.
 Está diseñado para simplificar el desarrollo de aplicaciones con entorno web. Permite generar de forma
@@ -66,6 +66,6 @@ al usuario sólo la tarea del diseño en FPGA.
 
 ## Dummy Simulator
 
-[Repositorio](https://github.com/marceluda/rp_dummy_simulator)
+{% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
 
 Simulador de picos espectrales, para probar barridos y lockeos.
