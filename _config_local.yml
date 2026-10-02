@@ -1,0 +1,4 @@
+# Override para compilar localmente en /var/www/html/marceluda
+# Uso: ./build-local.sh   (se combina con _config.yml)
+url: "http://localhost/marceluda"
+baseurl: "/marceluda"
