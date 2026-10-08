@@ -857,3 +857,13 @@ td.gutter {
 .project-badges img {
   vertical-align: middle;
 }
+
+/* Badges de descarga en /redpitaya/ */
+.download-badge {
+  display: inline-block;
+  margin: 0 6px 4px 0;
+  text-decoration: none !important;
+}
+.download-badge img {
+  vertical-align: middle;
+}

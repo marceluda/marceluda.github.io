@@ -1,0 +1,11 @@
+{%- comment -%}
+  Badge de descarga de un empaquetado en redpitaya/downloads. Uso:
+    {% include download-badge.html file="scope++-1.1.1-4-devbuild.zip" label="Scope++ v1.1.1-4" %}
+  Parte gris: nombre de la App y versión. Parte coloreada: formato (tar.gz verde / zip naranja).
+{%- endcomment -%}
+{%- if include.file contains ".tar.gz" -%}
+  {%- assign fmt = "tar.gz" -%}{%- assign color = "2E7D32" -%}
+{%- else -%}
+  {%- assign fmt = "zip" -%}{%- assign color = "E65100" -%}
+{%- endif -%}
+<a class="download-badge" href="{{ site.baseurl }}/redpitaya/downloads/{{ include.file | uri_escape }}"><img alt="{{ include.label }} {{ fmt }}" src="https://img.shields.io/static/v1?label={{ include.label | url_encode }}&message={{ fmt }}&color={{ color }}&logo=files&logoColor=white" /></a>
