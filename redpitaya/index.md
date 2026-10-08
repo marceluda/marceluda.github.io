@@ -31,6 +31,10 @@ además de filtros PID y control de lock, embebidos en la FPGA.
 
 Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 
+**Descargas:**
+
+{% include download-badge.html file="lock_in+pid_harmonic-0.3.10-4-devbuild.tar.gz" label="Lock-in+PID H v0.3.10-4" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.10-4-devbuild.zip" label="Lock-in+PID H v0.3.10-4" %}
+
 ## Lock-in+PID H2
 
 {% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
