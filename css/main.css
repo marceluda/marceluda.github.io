@@ -867,3 +867,29 @@ td.gutter {
 .download-badge img {
   vertical-align: middle;
 }
+
+/* Recuadro de descargas en /redpitaya/ */
+.download-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin: 18px auto 36px;
+  padding: 12px 18px;
+  width: fit-content;
+  max-width: 100%;
+  background: #f5f9fa;
+  border: 1px dashed #9cc7d1;
+  border-radius: 8px;
+}
+.download-box .download-icon {
+  font-size: 22px;
+  color: #0085A1;
+}
+.download-box .download-list {
+  line-height: 2;
+  text-align: center;
+}
+.download-box .download-badge {
+  margin: 0 3px;
+}
