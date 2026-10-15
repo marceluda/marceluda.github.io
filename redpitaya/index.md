@@ -16,7 +16,13 @@ herramientas útiles en un laboratorio de óptica y física atómica.
 <div class="alert alert-info" role="alert" markdown="1">
 **Versiones 2.x:** fueron rediseñadas incorporando los diseños originales de la capa FPGA al diseño base
 [Release_2025.2](https://github.com/RedPitaya/RedPitaya-FPGA/releases/tag/Release_2025.2) de RedPitaya-FPGA
-(tag `2.07-48`, rama `origin/Release-2025.2`). Las versiones 0.x anteriores siguen disponibles para descargar.
+(tag `2.07-48`, rama `origin/Release-2025.2`), con la FPGA compilada en Vivado 2020.1.
+
+**¿Qué versión descargar?**
+- **2.x** → ecosistema **2.0** de Red Pitaya (por ejemplo `RedPitaya_OS_2.04`; probadas en 2.04-35).
+- **0.x** → ecosistemas **0.9x / 1.0**. Siguen disponibles para descargar.
+
+Lock-in+PID SQ sólo existe en versión 2.x.
 </div>
 
 {% include card-grid.html items=site.data.redpitaya logo=true %}
