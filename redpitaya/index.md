@@ -65,7 +65,7 @@ Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 
 ## Lock-in+PID SQ {#lock-in-pid-sq}
 
-{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-sq" name="Lock-in+PID SQ" %}
 
 Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
 

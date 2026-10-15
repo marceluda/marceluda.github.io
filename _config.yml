@@ -27,7 +27,7 @@ navbar-links:
     - Todos los proyectos: "redpitaya/"
     - Lock-in+PID: "https://marceluda.github.io/rp_lock-in_pid/"
     - Lock-in+PID H: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h"
-    - Lock-in+PID SQ: "https://github.com/marceluda/rp_lock-in_pid_sq"
+    - Lock-in+PID SQ: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-sq"
     - Lock-in+PID H HF: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf"
     - Lock-in+PID H2: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2"
     - Scope++: "https://github.com/marceluda/rp_scope_plus"

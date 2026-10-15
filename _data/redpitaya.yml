@@ -16,7 +16,7 @@
   descripcion: Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
   descripcion_en: Version of Lock-in+PID with only the square (fast) lock-in.
   imagen: /img/cards/rp_lock-in_pid_sq.png
-  url: https://github.com/marceluda/rp_lock-in_pid_sq
+  url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-sq
   repo: https://github.com/marceluda/rp_lock-in_pid_sq
 - nombre: Lock-in+PID H HF
   descripcion: Variante de Lock-in+PID H que llega hasta 1 MHz.
