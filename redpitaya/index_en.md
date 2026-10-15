@@ -64,17 +64,16 @@ Harmonic lock-in up to 50 kHz, PID filters and lock control.
   </div>
 </div>
 
-## Lock-in+PID H2 {#lock-in-pid-h2}
+## Lock-in+PID SQ {#lock-in-pid-sq}
 
-{% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
 
-Lock-in demodulators sharing the same local oscillator, PID filters and lock control.
+Version of Lock-in+PID with only the square (fast) lock-in.
 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
-  {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
+  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
   </div>
 </div>
 
@@ -92,16 +91,17 @@ Variant of Lock-in+PID H that reaches 1 MHz.
   </div>
 </div>
 
-## Lock-in+PID SQ {#lock-in-pid-sq}
+## Lock-in+PID H2 {#lock-in-pid-h2}
 
-{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
 
-Version of Lock-in+PID with only the square (fast) lock-in.
+Lock-in demodulators sharing the same local oscillator, PID filters and lock control.
 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
+  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
   </div>
 </div>
 
@@ -118,6 +118,19 @@ Extended version of the free oscilloscope application of the Red Pitaya communit
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
   {% include download-badge.html file="scope++-1.1.1-4-devbuild.tar.gz" label="Scope++ v1.1.1-4" %} {% include download-badge.html file="scope++-1.1.1-4-devbuild.zip" label="Scope++ v1.1.1-4" %}
+  </div>
+</div>
+
+## Dummy Simulator {#dummy-simulator}
+
+{% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
+
+Spectral peak simulator, to test scans and locking.
+
+<div class="download-box">
+  <i class="fa fa-download download-icon" aria-hidden="true"></i>
+  <div class="download-list">
+  {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
   </div>
 </div>
 
@@ -142,18 +155,5 @@ only the FPGA design task.
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
   {% include download-badge.html file="rp_dummy.zip" label="Dummy System v0.1.0" %}
-  </div>
-</div>
-
-## Dummy Simulator {#dummy-simulator}
-
-{% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
-
-Spectral peak simulator, to test scans and locking.
-
-<div class="download-box">
-  <i class="fa fa-download download-icon" aria-hidden="true"></i>
-  <div class="download-list">
-  {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
   </div>
 </div>

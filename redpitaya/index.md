@@ -63,17 +63,16 @@ Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
   </div>
 </div>
 
-## Lock-in+PID H2 {#lock-in-pid-h2}
+## Lock-in+PID SQ {#lock-in-pid-sq}
 
-{% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
 
-Demoduladores lock-in que comparten un mismo oscilador local, filtros PID y control de lock.
+Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
-  {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
+  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
   </div>
 </div>
 
@@ -91,16 +90,17 @@ Variante de Lock-in+PID H que llega hasta 1 MHz.
   </div>
 </div>
 
-## Lock-in+PID SQ {#lock-in-pid-sq}
+## Lock-in+PID H2 {#lock-in-pid-h2}
 
-{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
 
-Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
+Demoduladores lock-in que comparten un mismo oscilador local, filtros PID y control de lock.
 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
+  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
   </div>
 </div>
 
@@ -117,6 +117,19 @@ Versión extendida de la aplicación de osciloscopio libre de la comunidad de Re
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
   {% include download-badge.html file="scope++-1.1.1-4-devbuild.tar.gz" label="Scope++ v1.1.1-4" %} {% include download-badge.html file="scope++-1.1.1-4-devbuild.zip" label="Scope++ v1.1.1-4" %}
+  </div>
+</div>
+
+## Dummy Simulator {#dummy-simulator}
+
+{% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
+
+Simulador de picos espectrales, para probar barridos y lockeos.
+
+<div class="download-box">
+  <i class="fa fa-download download-icon" aria-hidden="true"></i>
+  <div class="download-list">
+  {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
   </div>
 </div>
 
@@ -141,18 +154,5 @@ al usuario sólo la tarea del diseño en FPGA.
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
   {% include download-badge.html file="rp_dummy.zip" label="Dummy System v0.1.0" %}
-  </div>
-</div>
-
-## Dummy Simulator {#dummy-simulator}
-
-{% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
-
-Simulador de picos espectrales, para probar barridos y lockeos.
-
-<div class="download-box">
-  <i class="fa fa-download download-icon" aria-hidden="true"></i>
-  <div class="download-list">
-  {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
   </div>
 </div>
