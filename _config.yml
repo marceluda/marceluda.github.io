@@ -29,6 +29,7 @@ navbar-links:
     - Lock-in+PID H: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h"
     - Lock-in+PID H2: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2"
     - Lock-in+PID H HF: "https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf"
+    - Lock-in+PID SQ: "https://github.com/marceluda/rp_lock-in_pid_sq"
     - Scope++: "https://github.com/marceluda/rp_scope_plus"
     - Dummy System: "https://marceluda.github.io/rp_dummy/"
     - Dummy Simulator: "https://github.com/marceluda/rp_dummy_simulator"

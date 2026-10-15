@@ -4,31 +4,46 @@ title: Proyectos Red Pitaya
 subtitle: Aplicaciones para instrumentación de laboratorio
 ---
 
+<div class="text-right">
+  <a href="{{ site.baseurl }}/redpitaya/en/" class="btn btn-default btn-sm" role="button"><i class="fa fa-language"></i> English version</a>
+</div>
+
 [Red Pitaya](https://www.redpitaya.com/) es una plataforma de instrumentación abierta que combina
 una FPGA, conversores analógico-digitales rápidos y un procesador ARM con interfaz web.
 Estas aplicaciones la convierten en amplificadores lock-in, controladores PID y otras
 herramientas útiles en un laboratorio de óptica y física atómica.
 
+<div class="alert alert-info" role="alert" markdown="1">
+**Versiones 2.x:** fueron rediseñadas incorporando los diseños originales de la capa FPGA al diseño base
+[Release_2025.2](https://github.com/RedPitaya/RedPitaya-FPGA/releases/tag/Release_2025.2) de RedPitaya-FPGA
+(tag `2.07-48`, rama `origin/Release-2025.2`). Las versiones 0.x anteriores siguen disponibles para descargar.
+</div>
+
 {% include card-grid.html items=site.data.redpitaya logo=true %}
 
 ------
 
-## Lock-in+PID
+## Lock-in+PID {#lock-in-pid}
 
 {% include project-badges.html repo="marceluda/rp_lock-in_pid" site="https://marceluda.github.io/rp_lock-in_pid/" name="Lock-in+PID" %}
 
 Es la App original. Incluye dos amplificadores lock-in, uno cuadrado y rápido y otro armónico y lento,
 además de filtros PID y control de lock, embebidos en la FPGA.
 
+Esta aplicación ha sido dividida en dos aplicaciones independientes: [Lock-in+PID Harmonic](#lock-in-pid-h)
+con la versión armónica del lock-in y [Lock-in+PID SQ](#lock-in-pid-sq) con la versión cuadrada. Cada una de
+éstas incluye *features* nuevos que no podían incorporarse al original por falta de espacio en la FPGA.
+
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
+  {% include download-badge.html file="lock_in+pid-2.2.8-18-devbuild.tar.gz" label="Lock-in+PID v2.2.8-18" %} {% include download-badge.html file="lock_in+pid-2.2.8-18-devbuild.zip" label="Lock-in+PID v2.2.8-18" %}<br />
   {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.tar.gz" label="Lock-in+PID v0.2.4-11" %} {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.zip" label="Lock-in+PID v0.2.4-11" %}<br />
   {% include download-badge.html file="lock_in+pid-0.2.3-7-devbuild.tar.gz" label="Lock-in+PID v0.2.3-7" %} {% include download-badge.html file="lock_in+pid-0.2.3-7-devbuild.zip" label="Lock-in+PID v0.2.3-7" %}
   </div>
 </div>
 
-## Lock-in+PID H
+## Lock-in+PID H {#lock-in-pid-h}
 
 {% include project-badges.html repo="marceluda/rp_lock-in_pid_h" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h" name="Lock-in+PID H" %}
 
@@ -37,11 +52,12 @@ Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_harmonic-2.3.20-46-devbuild.tar.gz" label="Lock-in+PID H v2.3.20-46" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.20-46-devbuild.zip" label="Lock-in+PID H v2.3.20-46" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
   </div>
 </div>
 
-## Lock-in+PID H2
+## Lock-in+PID H2 {#lock-in-pid-h2}
 
 {% include project-badges.html repo="marceluda/rp_lock-in_pid_h2" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h2" name="Lock-in+PID H2" %}
 
@@ -50,11 +66,12 @@ Demoduladores lock-in que comparten un mismo oscilador local, filtros PID y cont
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
   </div>
 </div>
 
-## Lock-in+PID H HF
+## Lock-in+PID H HF {#lock-in-pid-h-hf}
 
 {% include project-badges.html repo="marceluda/rp_lock-in_pid_h_hf" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h-hf" name="Lock-in+PID H HF" %}
 
@@ -63,11 +80,25 @@ Variante de Lock-in+PID H que llega hasta 1 MHz.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.13-14-devbuild.tar.gz" label="Lock-in+PID H HF v2.3.13-14" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.13-14-devbuild.zip" label="Lock-in+PID H HF v2.3.13-14" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.tar.gz" label="Lock-in+PID H HF v0.3.9-7" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.zip" label="Lock-in+PID H HF v0.3.9-7" %}
   </div>
 </div>
 
-## Scope++
+## Lock-in+PID SQ {#lock-in-pid-sq}
+
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_sq" %}
+
+Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
+
+<div class="download-box">
+  <i class="fa fa-download download-icon" aria-hidden="true"></i>
+  <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
+  </div>
+</div>
+
+## Scope++ {#scope-plus}
 
 {% include project-badges.html repo="marceluda/rp_scope_plus" %}
 
@@ -83,7 +114,7 @@ Versión extendida de la aplicación de osciloscopio libre de la comunidad de Re
   </div>
 </div>
 
-## Dummy System
+## Dummy System {#dummy-system}
 
 {% include project-badges.html repo="marceluda/rp_dummy" site="https://marceluda.github.io/rp_dummy/" name="Dummy System" %}
 
@@ -107,7 +138,7 @@ al usuario sólo la tarea del diseño en FPGA.
   </div>
 </div>
 
-## Dummy Simulator
+## Dummy Simulator {#dummy-simulator}
 
 {% include project-badges.html repo="marceluda/rp_dummy_simulator" %}
 
@@ -119,4 +150,3 @@ Simulador de picos espectrales, para probar barridos y lockeos.
   {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
   </div>
 </div>
-

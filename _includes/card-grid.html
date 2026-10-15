@@ -2,6 +2,7 @@
   Cuadrícula de tarjetas. Uso:
     {% include card-grid.html items=site.data.redpitaya %}
   Cada item: nombre, descripcion, imagen, url (externa https://... o interna /...)
+  Con lang="en" se usa descripcion_en si existe.
   Con logo=true las imágenes se muestran como logo (contenidas, sin recortar).
 {% endcomment %}
 <div class="card-grid{% if include.logo %} card-grid-logo{% endif %}">
@@ -18,7 +19,7 @@
       </div>
       <div class="card-body">
         <h4 class="card-title">{{ item.nombre }}</h4>
-        <p class="card-desc">{{ item.descripcion }}</p>
+        <p class="card-desc">{% if include.lang == "en" and item.descripcion_en %}{{ item.descripcion_en }}{% else %}{{ item.descripcion }}{% endif %}</p>
       </div>
     </a>
   {% endfor %}
