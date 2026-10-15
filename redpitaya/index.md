@@ -37,7 +37,7 @@ Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic-0.3.10-4-devbuild.tar.gz" label="Lock-in+PID H v0.3.10-4" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.10-4-devbuild.zip" label="Lock-in+PID H v0.3.10-4" %}
+  {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
   </div>
 </div>
 
