@@ -893,3 +893,21 @@ td.gutter {
 .download-box .download-badge {
   margin: 0 3px;
 }
+
+/* Tabla de versiones en /redpitaya/en/versions/ */
+.download-box.versions-box {
+  align-items: flex-start;
+}
+.versions-table td {
+  padding: 2px 10px;
+  vertical-align: middle;
+}
+.versions-table td.versions-label {
+  font-family: monospace;
+  white-space: nowrap;
+  text-align: left;
+}
+.versions-table td.versions-tag,
+.versions-table td.versions-files {
+  white-space: nowrap;
+}

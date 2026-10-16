@@ -26,6 +26,10 @@ RedPitaya-FPGA [Release_2025.2](https://github.com/RedPitaya/RedPitaya-FPGA/rele
 Lock-in+PID SQ is only available as 2.x.
 </div>
 
+<div class="text-center">
+  <a href="{{ site.baseurl }}/redpitaya/en/versions/" class="btn btn-default btn-sm" role="button"><i class="fa fa-archive"></i> All versions</a>
+</div>
+
 {% include card-grid.html items=site.data.redpitaya logo=true lang="en" %}
 
 ------
@@ -44,9 +48,8 @@ them includes new *features* that could not be added to the original one due to 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid-2.2.8-18-devbuild.tar.gz" label="Lock-in+PID v2.2.8-18" %} {% include download-badge.html file="lock_in+pid-2.2.8-18-devbuild.zip" label="Lock-in+PID v2.2.8-18" %}<br />
-  {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.tar.gz" label="Lock-in+PID v0.2.4-11" %} {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.zip" label="Lock-in+PID v0.2.4-11" %}<br />
-  {% include download-badge.html file="lock_in+pid-0.2.3-7-devbuild.tar.gz" label="Lock-in+PID v0.2.3-7" %} {% include download-badge.html file="lock_in+pid-0.2.3-7-devbuild.zip" label="Lock-in+PID v0.2.3-7" %}
+  {% include download-badge.html file="lock_in+pid-2.2.9-21-devbuild.tar.gz" label="Lock-in+PID v2.2.9-21" %} {% include download-badge.html file="lock_in+pid-2.2.9-21-devbuild.zip" label="Lock-in+PID v2.2.9-21" %}<br />
+  {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.tar.gz" label="Lock-in+PID v0.2.4-11" %} {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.zip" label="Lock-in+PID v0.2.4-11" %}
   </div>
 </div>
 
@@ -59,7 +62,7 @@ Harmonic lock-in up to 50 kHz, PID filters and lock control.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic-2.3.20-46-devbuild.tar.gz" label="Lock-in+PID H v2.3.20-46" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.20-46-devbuild.zip" label="Lock-in+PID H v2.3.20-46" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic-2.3.23-57-devbuild.tar.gz" label="Lock-in+PID H v2.3.23-57" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.23-57-devbuild.zip" label="Lock-in+PID H v2.3.23-57" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
   </div>
 </div>
@@ -73,7 +76,7 @@ Version of Lock-in+PID with only the square (fast) lock-in.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.2-9" %} {% include download-badge.html file="lock_in+pid_square-2.0.2-9-devbuild.zip" label="Lock-in+PID SQ v2.0.2-9" %}
+  {% include download-badge.html file="lock_in+pid_square-2.0.3-11-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.3-11" %} {% include download-badge.html file="lock_in+pid_square-2.0.3-11-devbuild.zip" label="Lock-in+PID SQ v2.0.3-11" %}
   </div>
 </div>
 
@@ -86,7 +89,7 @@ Variant of Lock-in+PID H that reaches 1 MHz.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.13-14-devbuild.tar.gz" label="Lock-in+PID H HF v2.3.13-14" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.13-14-devbuild.zip" label="Lock-in+PID H HF v2.3.13-14" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.14-16-devbuild.tar.gz" label="Lock-in+PID H HF v2.3.14-16" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.14-16-devbuild.zip" label="Lock-in+PID H HF v2.3.14-16" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.tar.gz" label="Lock-in+PID H HF v0.3.9-7" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.zip" label="Lock-in+PID H HF v0.3.9-7" %}
   </div>
 </div>
@@ -100,7 +103,7 @@ Lock-in demodulators sharing the same local oscillator, PID filters and lock con
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.6-16" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.6-16-devbuild.zip" label="Lock-in+PID H2 v2.4.6-16" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.7-18-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.7-18" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.7-18-devbuild.zip" label="Lock-in+PID H2 v2.4.7-18" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
   </div>
 </div>
@@ -130,7 +133,7 @@ Spectral peak simulator, to test scans and locking.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.tar.gz" label="Dummy Simulator v0.1.2-4" %} {% include download-badge.html file="dummy_simulator-0.1.2-4-devbuild.zip" label="Dummy Simulator v0.1.2-4" %}
+  {% include download-badge.html file="dummy_simulator-0.1.4-7-devbuild.tar.gz" label="Dummy Simulator v0.1.4-7" %} {% include download-badge.html file="dummy_simulator-0.1.4-7-devbuild.zip" label="Dummy Simulator v0.1.4-7" %}
   </div>
 </div>
 
