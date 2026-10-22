@@ -29,7 +29,7 @@ Registro para redes de la edición Tecnópolis 2022:
 
 # Ciencia y tecnologías estratégicas en la Argentina del siglo XX
 
-Charla para escuela de educación secundaria
+Charla para escuelas de educación secundaria.
 
 <p>
 <img class="avatar-img" src="{{ site.baseurl }}/divulgación/CyTenArgXX/diapositivas.png" />

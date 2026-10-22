@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: marcelo luda
+title: Marcelo Luda
 
 # Short description of your site
 description: Una web para publicar proyectos y algunas cosas más
@@ -78,7 +78,7 @@ paginate_path: "/blog/page:num/"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Marcelo luda
+  name: Marcelo Luda
   email: "marceluda@gmail.com"
   facebook: marceluda  # eg. daattali
   github: marceluda    # eg. daattali

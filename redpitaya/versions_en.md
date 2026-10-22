@@ -82,7 +82,7 @@ apps:
   <a href="{{ site.baseurl }}/redpitaya/en/" class="btn btn-default btn-sm" role="button"><i class="fa fa-arrow-left"></i> Red Pitaya Projects</a>
 </div>
 
-This is the archive of every package published in this site for each Red Pitaya App, from the newest
+This is the archive of every package published on this site for each Red Pitaya App, from the newest
 to the oldest. For normal use, the latest version of each branch is recommended: **2.x** for the
 Red Pitaya **Ecosystem 2.0** and **0.x** for the **0.9x / 1.0** ecosystems
 (see [Red Pitaya Projects]({{ site.baseurl }}/redpitaya/en/)).

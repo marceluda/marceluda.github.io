@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Página "Acerca de ...""
+title: Acerca de...
 subtitle: en producción
 ---
 
