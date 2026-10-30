@@ -48,7 +48,7 @@ them includes new *features* that could not be added to the original one due to 
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid-2.2.13-28-devbuild.tar.gz" label="Lock-in+PID v2.2.13-28" %} {% include download-badge.html file="lock_in+pid-2.2.13-28-devbuild.zip" label="Lock-in+PID v2.2.13-28" %}<br />
+  {% include download-badge.html file="lock_in+pid-2.2.15-30-devbuild.tar.gz" label="Lock-in+PID v2.2.15-30" %} {% include download-badge.html file="lock_in+pid-2.2.15-30-devbuild.zip" label="Lock-in+PID v2.2.15-30" %}<br />
   {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.tar.gz" label="Lock-in+PID v0.2.4-11" %} {% include download-badge.html file="lock_in+pid-0.2.4-11-devbuild.zip" label="Lock-in+PID v0.2.4-11" %}
   </div>
 </div>
@@ -62,7 +62,7 @@ Harmonic lock-in up to 50 kHz, PID filters and lock control.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic-2.3.28-70-devbuild.tar.gz" label="Lock-in+PID H v2.3.28-70" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.28-70-devbuild.zip" label="Lock-in+PID H v2.3.28-70" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.tar.gz" label="Lock-in+PID H v2.3.30-72" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.zip" label="Lock-in+PID H v2.3.30-72" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
   </div>
 </div>
@@ -76,7 +76,7 @@ Version of Lock-in+PID with only the square (fast) lock-in.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_square-2.0.7-17-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.7-17" %} {% include download-badge.html file="lock_in+pid_square-2.0.7-17-devbuild.zip" label="Lock-in+PID SQ v2.0.7-17" %}
+  {% include download-badge.html file="lock_in+pid_square-2.0.9-19-devbuild.tar.gz" label="Lock-in+PID SQ v2.0.9-19" %} {% include download-badge.html file="lock_in+pid_square-2.0.9-19-devbuild.zip" label="Lock-in+PID SQ v2.0.9-19" %}
   </div>
 </div>
 
@@ -89,7 +89,7 @@ Variant of Lock-in+PID H that reaches 1 MHz.
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.18-23-devbuild.tar.gz" label="Lock-in+PID H HF v2.3.18-23" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.18-23-devbuild.zip" label="Lock-in+PID H HF v2.3.18-23" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.20-25-devbuild.tar.gz" label="Lock-in+PID H HF v2.3.20-25" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-2.3.20-25-devbuild.zip" label="Lock-in+PID H HF v2.3.20-25" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.tar.gz" label="Lock-in+PID H HF v0.3.9-7" %} {% include download-badge.html file="lock_in+pid_harmonic_hf-0.3.9-7-devbuild.zip" label="Lock-in+PID H HF v0.3.9-7" %}
   </div>
 </div>
@@ -103,7 +103,7 @@ Lock-in demodulators sharing the same local oscillator, PID filters and lock con
 <div class="download-box">
   <i class="fa fa-download download-icon" aria-hidden="true"></i>
   <div class="download-list">
-  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.11-25-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.11-25" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.11-25-devbuild.zip" label="Lock-in+PID H2 v2.4.11-25" %}<br />
+  {% include download-badge.html file="lock_in+pid_harmonic2-2.4.13-27-devbuild.tar.gz" label="Lock-in+PID H2 v2.4.13-27" %} {% include download-badge.html file="lock_in+pid_harmonic2-2.4.13-27-devbuild.zip" label="Lock-in+PID H2 v2.4.13-27" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz" label="Lock-in+PID H2 v0.4.2-10" %} {% include download-badge.html file="lock_in+pid_harmonic2-0.4.2-10-devbuild.zip" label="Lock-in+PID H2 v0.4.2-10" %}
   </div>
 </div>
