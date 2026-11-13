@@ -12,6 +12,12 @@
   imagen: /img/cards/rp_lock-in_pid_h.png
   url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-h
   repo: https://github.com/marceluda/rp_lock-in_pid_h
+- nombre: Lock-in+PID Plus
+  descripcion: Lock-in con referencia DDS por frecuencia, demodulación en armónicos, referencia externa (ADPLL), PID y control de rampa.
+  descripcion_en: Lock-in with frequency-set DDS reference, harmonic demodulation, external reference (ADPLL), PID and ramp controller.
+  imagen: /img/cards/rp_lock-in_pid_plus.png
+  url: https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-plus
+  repo: https://github.com/marceluda/rp_lock-in_pid_plus
 - nombre: Lock-in+PID SQ
   descripcion: Versión de Lock-in+PID únicamente con el lock-in cuadrado (rápido).
   descripcion_en: Version of Lock-in+PID with only the square (fast) lock-in.

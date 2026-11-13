@@ -22,7 +22,7 @@ herramientas útiles en un laboratorio de óptica y física atómica.
 - **2.x** → ecosistema **2.0** de Red Pitaya (por ejemplo `RedPitaya_OS_2.04`; probadas en 2.04-35).
 - **0.x** → ecosistemas **0.9x / 1.0**. Siguen disponibles para descargar.
 
-Lock-in+PID SQ sólo existe en versión 2.x.
+Lock-in+PID Plus y Lock-in+PID SQ sólo existen en versión 2.x.
 </div>
 
 <div class="text-center">
@@ -63,6 +63,19 @@ Lock-in armónico hasta 50 kHz, filtros PID y control de lock.
   <div class="download-list">
   {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.tar.gz" label="Lock-in+PID H v2.3.30-72" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.zip" label="Lock-in+PID H v2.3.30-72" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
+  </div>
+</div>
+
+## Lock-in+PID Plus {#lock-in-pid-plus}
+
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_plus" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-plus" name="Lock-in+PID Plus" %}
+
+Derivada de [Lock-in+PID H](#lock-in-pid-h). Lock-in con referencia DDS por frecuencia, demodulación en armónicos, referencia externa (ADPLL), PID y control de rampa.
+
+<div class="download-box">
+  <i class="fa fa-download download-icon" aria-hidden="true"></i>
+  <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_plus-2.2.0-18-devbuild.tar.gz" label="Lock-in+PID Plus v2.2.0-18" %} {% include download-badge.html file="lock_in+pid_plus-2.2.0-18-devbuild.zip" label="Lock-in+PID Plus v2.2.0-18" %}
   </div>
 </div>
 

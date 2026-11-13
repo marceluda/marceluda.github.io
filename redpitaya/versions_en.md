@@ -10,6 +10,9 @@ apps:
   - name: Lock-in+PID H
     prefix: "lock_in+pid_harmonic"
     anchor: lock-in-pid-h
+  - name: Lock-in+PID Plus
+    prefix: "lock_in+pid_plus"
+    anchor: lock-in-pid-plus
   - name: Lock-in+PID SQ
     prefix: "lock_in+pid_square"
     anchor: lock-in-pid-sq

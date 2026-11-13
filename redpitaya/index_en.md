@@ -23,7 +23,7 @@ RedPitaya-FPGA [Release_2025.2](https://github.com/RedPitaya/RedPitaya-FPGA/rele
 - **2.x** → Red Pitaya **Ecosystem 2.0** (e.g. `RedPitaya_OS_2.04`; tested on 2.04-35).
 - **0.x** → **0.9x / 1.0** ecosystems. They are still available for download.
 
-Lock-in+PID SQ is only available as 2.x.
+Lock-in+PID Plus and Lock-in+PID SQ are only available as 2.x.
 </div>
 
 <div class="text-center">
@@ -64,6 +64,19 @@ Harmonic lock-in up to 50 kHz, PID filters and lock control.
   <div class="download-list">
   {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.tar.gz" label="Lock-in+PID H v2.3.30-72" %} {% include download-badge.html file="lock_in+pid_harmonic-2.3.30-72-devbuild.zip" label="Lock-in+PID H v2.3.30-72" %}<br />
   {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz" label="Lock-in+PID H v0.3.11-17" %} {% include download-badge.html file="lock_in+pid_harmonic-0.3.11-17-devbuild.zip" label="Lock-in+PID H v0.3.11-17" %}
+  </div>
+</div>
+
+## Lock-in+PID Plus {#lock-in-pid-plus}
+
+{% include project-badges.html repo="marceluda/rp_lock-in_pid_plus" site="https://marceluda.github.io/rp_lock-in_pid/Derivated/#lock-in-pid-plus" name="Lock-in+PID Plus" %}
+
+Derived from [Lock-in+PID H](#lock-in-pid-h). Lock-in with frequency-set DDS reference, harmonic demodulation, external reference (ADPLL), PID and ramp controller.
+
+<div class="download-box">
+  <i class="fa fa-download download-icon" aria-hidden="true"></i>
+  <div class="download-list">
+  {% include download-badge.html file="lock_in+pid_plus-2.2.0-18-devbuild.tar.gz" label="Lock-in+PID Plus v2.2.0-18" %} {% include download-badge.html file="lock_in+pid_plus-2.2.0-18-devbuild.zip" label="Lock-in+PID Plus v2.2.0-18" %}
   </div>
 </div>
 
