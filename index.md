@@ -67,8 +67,10 @@ Tutoriales en español para usar Python en tareas cotidianas del laboratorio de 
 
 <div class="home-section" markdown="1">
 
-## Apuntes de física
+## Apuntes personales
 
-<div class="alert alert-info" role="alert">Próximamente habrá material en esta sección.</div>
+Videos de divulgación seleccionados, con buscador y filtros por tema. Próximamente, simulaciones de física.
+
+<div class="text-center"><a href="{{ site.baseurl }}/apuntes/" class="btn btn-primary" role="button">Ver apuntes</a></div>
 
 </div>

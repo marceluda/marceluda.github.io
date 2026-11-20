@@ -1,0 +1,1537 @@
+[
+ {
+  "id": "teoria-cuantica-campos",
+  "title": "La Teoría cuántica de Campos, ilustrada",
+  "author": "ScienceClic Español",
+  "date": "2022-08-21",
+  "url": "https://www.youtube.com/watch?v=HNmQJI3Rl8E",
+  "language": "es",
+  "duration": "15:53",
+  "description": {
+   "es": "Construye paso a paso, con animaciones, la teoría cuántica de campos: campos que respetan las simetrías de la relatividad y se clasifican por espín, cantidades conservadas, partículas como excitaciones, el modelo estándar y cómo el intercambio de partículas virtuales produce las fuerzas.",
+   "en": "Builds quantum field theory step by step with animations: fields that respect the symmetries of relativity and are classified by spin, conserved quantities, particles as excitations, the standard model and how exchanging virtual particles produces forces."
+  },
+  "tags": {
+   "es": [
+    "física de partículas",
+    "teoría cuántica de campos",
+    "modelo estándar",
+    "espín",
+    "animación",
+    "simetrías"
+   ],
+   "en": [
+    "particle physics",
+    "quantum field theory",
+    "standard model",
+    "spin",
+    "animation",
+    "symmetries"
+   ]
+  }
+ },
+ {
+  "id": "defensa-tesis-luda",
+  "title": "Defensa de Tesis Doctoral de Marcelo Luda",
+  "author": "Física Exactas UBA",
+  "date": "2021-11-24",
+  "url": "https://www.youtube.com/watch?v=gfvatGLzwYs",
+  "language": "es",
+  "duration": "1:43:08",
+  "description": {
+   "es": "Marcelo Luda defiende su tesis doctoral (UBA, con trabajo en CITEDEF) sobre instrumentación digital para laboratorios de física: un sistema basado en FPGA que integra lock-in, PID y osciloscopio, aplicado a estabilizar láseres y a un reloj atómico de rubidio por atrapamiento coherente de población.",
+   "en": "Marcelo Luda defends his PhD thesis (UBA, with work at CITEDEF) on digital instrumentation for physics labs: an FPGA-based system combining lock-in, PID and oscilloscope, applied to laser stabilization and to a rubidium atomic clock based on coherent population trapping."
+  },
+  "tags": {
+   "es": [
+    "defensa de tesis",
+    "óptica",
+    "física atómica",
+    "metrología",
+    "instrumentación",
+    "reloj"
+   ],
+   "en": [
+    "thesis defense",
+    "optics",
+    "atomic physics",
+    "metrology",
+    "instrumentation",
+    "clock"
+   ]
+  }
+ },
+ {
+  "id": "campo-electromagnetico",
+  "title": "The Electromagnetic field, how Electric and Magnetic forces arise",
+  "author": "ScienceClic English",
+  "date": "2022-11-05",
+  "url": "https://www.youtube.com/watch?v=XoVW7CRR5JY",
+  "language": "en",
+  "duration": "14:43",
+  "description": {
+   "es": "ScienceClic explica con animaciones la fuerza eléctrica como intercambio de fotones virtuales, el campo eléctrico, la fuerza magnética como efecto relativista de cargas en movimiento, la inducción y cómo las ecuaciones de Maxwell predicen las ondas electromagnéticas.",
+   "en": "ScienceClic uses animations to explain the electric force as an exchange of virtual photons, the electric field, magnetism as a relativistic effect of moving charges, induction, and how Maxwell's equations predict electromagnetic waves."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "Maxwell",
+    "animación",
+    "relatividad",
+    "radiación electromagnética"
+   ],
+   "en": [
+    "electromagnetism",
+    "Maxwell",
+    "animation",
+    "relativity",
+    "electromagnetic radiation"
+   ]
+  }
+ },
+ {
+  "id": "interpretaciones-cuantica",
+  "title": "Conferencia \"El problema de las interpretaciones de la mecánica cuántica\" por Adán Cabello Quintero",
+  "author": "Fundación Orotava de Historia de la Ciencia",
+  "date": "2023-03-28",
+  "url": "https://www.youtube.com/watch?v=TX4VgqV5lsc",
+  "language": "es",
+  "duration": "1:27:20",
+  "description": {
+   "es": "Adán Cabello clasifica unas 50 interpretaciones de la mecánica cuántica según si la función de onda es real o sólo una herramienta, y las rastrea a tres problemas: completitud (EPR y Bell), la medida y el amigo de Wigner. Cierra con su propuesta: la naturaleza realiza todo lo matemáticamente posible.",
+   "en": "Adán Cabello classifies some 50 interpretations of quantum mechanics by whether the wave function is real or just a tool, and traces them to three problems: completeness (EPR and Bell), measurement and Wigner's friend. He closes with his own proposal: nature realizes everything mathematically possible."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "interpretaciones de la cuántica",
+    "conferencia",
+    "teorema de Bell",
+    "teoría de la medida cuántica"
+   ],
+   "en": [
+    "quantum mechanics",
+    "interpretations of quantum mechanics",
+    "talk",
+    "Bell's theorem",
+    "quantum measurement"
+   ]
+  }
+ },
+ {
+  "id": "fisica-cuantica-historia",
+  "title": "Conferencia “La Física Cuántica: desarrollo histórico y conceptos” por Daniel Alonso Ramírez Fundoro",
+  "author": "Fundación Orotava de Historia de la Ciencia",
+  "date": "2023-03-28",
+  "url": "https://www.youtube.com/watch?v=dHWikSCPtQw",
+  "language": "es",
+  "duration": "50:37",
+  "description": {
+   "es": "Daniel Alonso recorre el nacimiento de la física cuántica: la física 'casi terminada' de 1900, Planck y el cuerpo negro, Einstein y el efecto fotoeléctrico, la vieja teoría cuántica y sus límites ante el caos, Heisenberg y Schrödinger, y lo que vino después, del desplazamiento de Lamb a Bell.",
+   "en": "Daniel Alonso traces the birth of quantum physics: the 'almost finished' physics of 1900, Planck and blackbody radiation, Einstein and the photoelectric effect, the old quantum theory and its limits with chaos, Heisenberg and Schrödinger, and what came next, from the Lamb shift to Bell."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "historia de la física",
+    "conferencia",
+    "radiación de cuerpo negro",
+    "caos"
+   ],
+   "en": [
+    "quantum mechanics",
+    "history of physics",
+    "talk",
+    "blackbody radiation",
+    "chaos"
+   ]
+  }
+ },
+ {
+  "id": "universo-cuantico",
+  "title": "Universo cuántico. Lo cierto, lo incierto y lo falso",
+  "author": "Nirakara",
+  "date": "2019-03-12",
+  "url": "https://www.youtube.com/watch?v=sblwX8bjCFo",
+  "language": "es",
+  "duration": "1:17:21",
+  "description": {
+   "es": "Charla introductoria para no iniciados: de la catástrofe ultravioleta y los cuantos de Planck a la doble rendija, la función de onda, el colapso, las interpretaciones y la decoherencia, separando lo que la teoría dice de los usos abusivos de «cuántico».",
+   "en": "Introductory talk for non-specialists: from the ultraviolet catastrophe and Planck's quanta to the double slit, the wave function, collapse, interpretations and decoherence, separating what the theory says from abuses of the word \"quantum\"."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "interpretaciones de la cuántica",
+    "conferencia",
+    "radiación de cuerpo negro",
+    "teoría de la medida cuántica"
+   ],
+   "en": [
+    "quantum mechanics",
+    "interpretations of quantum mechanics",
+    "talk",
+    "blackbody radiation",
+    "quantum measurement"
+   ]
+  }
+ },
+ {
+  "id": "flecha-del-tiempo",
+  "title": "Conferencia \"La flecha del tiempo\" a cargo de David Blanco Laserna en Fundoro el 14 de marzo de 2023",
+  "author": "Fundación Orotava de Historia de la Ciencia",
+  "date": "2023-03-15",
+  "url": "https://www.youtube.com/watch?v=lhJOayDetkE",
+  "language": "es",
+  "duration": "53:18",
+  "description": {
+   "es": "David Blanco Laserna cuenta la historia de la flecha del tiempo: leyes reversibles, la máquina de Carnot y el segundo principio, la entropía estadística de Boltzmann y sus cerebros, y cómo el Big Bang de baja entropía y la gravedad explican la asimetría y la aparición de orden local.",
+   "en": "David Blanco Laserna tells the story of the arrow of time: reversible laws, the Carnot engine and the second law, Boltzmann's statistical entropy and his brains, and how a low-entropy Big Bang and gravity explain the asymmetry and the emergence of local order."
+  },
+  "tags": {
+   "es": [
+    "termodinámica",
+    "flecha del tiempo",
+    "entropía",
+    "conferencia",
+    "física estadística",
+    "cosmología"
+   ],
+   "en": [
+    "thermodynamics",
+    "arrow of time",
+    "entropy",
+    "talk",
+    "statistical physics",
+    "cosmology"
+   ]
+  }
+ },
+ {
+  "id": "cientificas-argentinas",
+  "title": "Las científicas que cambiaron la historia argentina | Julieta Alcain | TEDxSaintGregory'sCollege",
+  "author": "TEDx Talks",
+  "date": "2022-02-03",
+  "url": "https://www.youtube.com/watch?v=CO8ekPtsu7c",
+  "language": "es",
+  "duration": "14:43",
+  "description": {
+   "es": "Charla TEDx de Julieta Alcain sobre científicas argentinas olvidadas, como Rebeca Guber, Cecilia Berdichevsky, Cora Ratto o Sara Rietti, y sobre el efecto tijera: por qué las mujeres van desapareciendo a medida que se sube en la carrera científica y qué cambiar.",
+   "en": "TEDx talk by Julieta Alcain about overlooked Argentine women scientists, such as Rebeca Guber, Cecilia Berdichevsky, Cora Ratto and Sara Rietti, and about the scissors effect: why women disappear as the scientific career goes up, and what to change."
+  },
+  "tags": {
+   "es": [
+    "ciencia y sociedad",
+    "mujeres en la ciencia",
+    "ciencia argentina",
+    "conferencia",
+    "historia de la ciencia"
+   ],
+   "en": [
+    "science and society",
+    "women in science",
+    "Argentine science",
+    "talk",
+    "history of science"
+   ]
+  }
+ },
+ {
+  "id": "revolucion-cientifica-xx",
+  "title": "La revolución científica del siglo XX",
+  "author": "YUCAAN",
+  "date": "2022-09-05",
+  "url": "https://www.youtube.com/watch?v=4aHk5Iz96uM",
+  "language": "es",
+  "duration": "7:14",
+  "description": {
+   "es": "Panorama escolar de la ciencia del siglo XX: cuántica, relatividad e incertidumbre, el átomo, la radiactividad y los rayos X, la expansión del universo, la penicilina y el ADN, y el impacto de guerras e industria en el desarrollo científico.",
+   "en": "School-level overview of 20th-century science: quantum theory, relativity and uncertainty, the atom, radioactivity and X-rays, the expanding universe, penicillin and DNA, and the role of wars and industry in scientific development."
+  },
+  "tags": {
+   "es": [
+    "historia de la ciencia",
+    "historia de la física",
+    "ciencia y sociedad"
+   ],
+   "en": [
+    "history of science",
+    "history of physics",
+    "science and society"
+   ]
+  }
+ },
+ {
+  "id": "entrelazamiento-clasico",
+  "title": "Classical entanglement and other quantum analogues",
+  "author": "Gabriele Carcassi",
+  "date": "2024-12-01",
+  "url": "https://www.youtube.com/watch?v=krfxf9cDfgM",
+  "language": "en",
+  "duration": "26:53",
+  "description": {
+   "es": "Gabriele Carcassi muestra que, si a la mecánica estadística clásica se le impone una entropía mínima (tercer principio), aparecen análogos de la incertidumbre (cota de hbar/e en lugar de hbar/2), la difracción, la interferencia, el entrelazamiento y la purificación de estados cuánticos.",
+   "en": "Gabriele Carcassi shows that if classical statistical mechanics is given a minimum entropy (third law), analogues appear of uncertainty (a bound of hbar/e instead of hbar/2), diffraction, interference, entanglement and the purification of quantum states."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "física estadística",
+    "entrelazamiento",
+    "entropía",
+    "termodinámica"
+   ],
+   "en": [
+    "quantum mechanics",
+    "statistical physics",
+    "entanglement",
+    "entropy",
+    "thermodynamics"
+   ]
+  }
+ },
+ {
+  "id": "historia-ecuaciones-maxwell",
+  "title": "The Hidden Story Behind Maxwell’s Equations",
+  "author": "Mr Verse",
+  "date": "2024-12-08",
+  "url": "https://www.youtube.com/watch?v=MNPwfQDrK5Q",
+  "language": "en",
+  "duration": "14:51",
+  "description": {
+   "es": "Cómo llegó Maxwell a sus ecuaciones entre 1855 y 1865: de la analogía con fluidos incompresibles y el modelo de vórtices moleculares con cojinetes a la teoría dinámica abstracta del campo, la predicción de la velocidad de la luz y por qué sus colegas la ignoraron durante décadas.",
+   "en": "How Maxwell reached his equations between 1855 and 1865: from the incompressible-fluid analogy and the molecular vortex model with ball bearings to the abstract dynamical field theory, the prediction of the speed of light and why colleagues ignored it for decades."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "historia de la física",
+    "Maxwell",
+    "velocidad de la luz"
+   ],
+   "en": [
+    "electromagnetism",
+    "history of physics",
+    "Maxwell",
+    "speed of light"
+   ]
+  }
+ },
+ {
+  "id": "concepto-de-masa",
+  "title": "the concept of mass",
+  "author": "Angela Collier",
+  "date": "2023-04-15",
+  "url": "https://www.youtube.com/watch?v=6HlCfwEduqA",
+  "language": "en",
+  "duration": "1:02:31",
+  "description": {
+   "es": "Video ensayo de Angela Collier que, siguiendo los artículos de Lev Okun, repasa la historia del concepto de masa y defiende que la masa es una sola e invariante: la equivalencia masa-energía vale para la energía en reposo y la «masa relativista» es una mala práctica al enseñar relatividad.",
+   "en": "Video essay by Angela Collier that, following Lev Okun's papers, reviews the history of the concept of mass and argues that there is a single, invariant mass: mass-energy equivalence applies to rest energy, and 'relativistic mass' is a bad habit in teaching relativity."
+  },
+  "tags": {
+   "es": [
+    "relatividad",
+    "masa",
+    "video ensayo",
+    "historia de la física"
+   ],
+   "en": [
+    "relativity",
+    "mass",
+    "video essay",
+    "history of physics"
+   ]
+  }
+ },
+ {
+  "id": "lagrangiano-dirac-qed",
+  "title": "This \"USELESS\" Equation is The Mathematical Basis of ALL MATTER!",
+  "author": "Arvin Ash",
+  "date": "2025-02-07",
+  "url": "https://www.youtube.com/watch?v=CnBrbJVaecg",
+  "language": "en",
+  "duration": "13:37",
+  "description": {
+   "es": "Arvin Ash muestra cómo, partiendo del lagrangiano de Dirac y exigiendo simetría local U(1), surge el campo del fotón y con él la electrodinámica cuántica.",
+   "en": "Arvin Ash shows how, starting from the Dirac Lagrangian and demanding local U(1) symmetry, the photon field emerges and with it quantum electrodynamics."
+  },
+  "tags": {
+   "es": [
+    "física de partículas",
+    "teoría cuántica de campos",
+    "electrodinámica cuántica",
+    "simetrías"
+   ],
+   "en": [
+    "particle physics",
+    "quantum field theory",
+    "quantum electrodynamics",
+    "symmetries"
+   ]
+  }
+ },
+ {
+  "id": "ajuste-fino-universo",
+  "title": "¿Dios Ha Ajustado Perfectamente el Universo?",
+  "author": "QuantumFracture",
+  "date": "2025-03-27",
+  "url": "https://www.youtube.com/watch?v=bKo8o8qhbzE",
+  "language": "es",
+  "duration": "21:23",
+  "description": {
+   "es": "QuantumFracture repasa los cerca de treinta parámetros libres de la física y el problema de la planitud, y discute las respuestas al ajuste fino: que la inflación o una teoría futura los explique, que el ajuste sea menos fino de lo que parece, el argumento antrópico y el multiverso.",
+   "en": "QuantumFracture reviews the roughly thirty free parameters of physics and the flatness problem, and discusses the responses to fine tuning: that inflation or a future theory explains them, that the tuning is less fine than it seems, the anthropic argument and the multiverse."
+  },
+  "tags": {
+   "es": [
+    "cosmología",
+    "ajuste fino",
+    "animación",
+    "problemas abiertos",
+    "multiverso"
+   ],
+   "en": [
+    "cosmology",
+    "fine tuning",
+    "animation",
+    "open problems",
+    "multiverse"
+   ]
+  }
+ },
+ {
+  "id": "mito-godel",
+  "title": "The Biggest Myth in Math (Gödel's Incompleteness)",
+  "author": "Curt Jaimungal",
+  "date": "2025-05-05",
+  "url": "https://www.youtube.com/watch?v=OH-ybecvuEo",
+  "language": "en",
+  "duration": "21:30",
+  "description": {
+   "es": "Curt Jaimungal corrige malentendidos sobre los teoremas de incompletitud de Gödel difundidos por Tyson, Kaku, Veritasium y Chopra: tratan de lo demostrable en sistemas formales, no de los límites del conocimiento humano ni de una teoría del todo en física.",
+   "en": "Curt Jaimungal corrects misunderstandings about Gödel's incompleteness theorems spread by Tyson, Kaku, Veritasium and Chopra: they concern what is provable within formal systems, not the limits of human knowledge or a physical theory of everything."
+  },
+  "tags": {
+   "es": [
+    "matemática",
+    "lógica matemática",
+    "video ensayo"
+   ],
+   "en": [
+    "mathematics",
+    "mathematical logic",
+    "video essay"
+   ]
+  }
+ },
+ {
+  "id": "alineacion-fabry-perot",
+  "title": "Aligning a Scanning Fabry-Perot Interferometer",
+  "author": "Manoj Peiris",
+  "date": "2016-01-26",
+  "url": "https://www.youtube.com/watch?v=r2ip14zIFmw",
+  "language": "en",
+  "duration": "17:22",
+  "description": {
+   "es": "Cómo armar y alinear un interferómetro Fabry-Perot de barrido con espejos curvos: cálculo de la cintura del haz y la posición de la lente para acoplar el modo, ajuste con espejos guía y lectura de los modos transversales en el osciloscopio mientras un piezo barre la cavidad.",
+   "en": "How to build and align a scanning Fabry-Perot interferometer with curved mirrors: computing the beam waist and lens position for mode matching, adjusting with steering mirrors, and reading the transverse modes on the oscilloscope while a piezo scans the cavity."
+  },
+  "tags": {
+   "es": [
+    "óptica",
+    "interferometría",
+    "tutorial",
+    "experimento"
+   ],
+   "en": [
+    "optics",
+    "interferometry",
+    "tutorial",
+    "experiment"
+   ]
+  }
+ },
+ {
+  "id": "rayos-x",
+  "title": "¿Por qué los RAYOS X son más poderosos de lo que pensamos? La LUZ que transformó la CIENCIA",
+  "author": "Reacciona Explota",
+  "date": "2025-08-03",
+  "url": "https://www.youtube.com/watch?v=tKPOfV6khz8",
+  "language": "es",
+  "duration": "33:32",
+  "description": {
+   "es": "Historia de los rayos X desde los tubos de Geissler y Crookes hasta el descubrimiento de Röntgen, la fiebre de 1896 y sus víctimas, y los usos actuales: tomografía, difracción de cristales, análisis de pinturas y radioterapia.",
+   "en": "History of X-rays from the Geissler and Crookes tubes to Röntgen's discovery, the 1896 craze and its victims, and present-day uses: CT scanning, crystal diffraction, painting analysis and radiotherapy."
+  },
+  "tags": {
+   "es": [
+    "historia de la física",
+    "rayos X",
+    "electromagnetismo",
+    "radiación electromagnética"
+   ],
+   "en": [
+    "history of physics",
+    "X-rays",
+    "electromagnetism",
+    "electromagnetic radiation"
+   ]
+  }
+ },
+ {
+  "id": "stern-gerlach-1967",
+  "title": "The Stern-Gerlach Experiment (ESI College Physics Film Program 1967)",
+  "author": "MIT Physics Instructional Resources Lab",
+  "date": "2022-11-08",
+  "url": "https://www.youtube.com/watch?v=AcTqcyv-V1I",
+  "language": "en",
+  "duration": "26:08",
+  "description": {
+   "es": "Película educativa de 1967 con Jerrold Zacharias (MIT) que reproduce el experimento de Stern-Gerlach con un haz de átomos de cesio y muestra que los modelos clásicos de brújula o giróscopo no explican la división del haz en dos, que exige la cuantización espacial.",
+   "en": "1967 educational film with Jerrold Zacharias (MIT) that reproduces the Stern-Gerlach experiment with a beam of cesium atoms and shows that classical compass or gyroscope models cannot explain the beam splitting in two, which requires space quantization."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "experimento de Stern-Gerlach",
+    "espín",
+    "física atómica",
+    "experimento"
+   ],
+   "en": [
+    "quantum mechanics",
+    "Stern-Gerlach experiment",
+    "spin",
+    "atomic physics",
+    "experiment"
+   ]
+  }
+ },
+ {
+  "id": "horno-haz-atomico",
+  "title": "DIY Atomic Beam Oven: The Stern Gerlach Experiment Pt. 3",
+  "author": "Advanced Tinkering",
+  "date": "2023-03-01",
+  "url": "https://www.youtube.com/watch?v=MfPOhqC-fbc",
+  "language": "en",
+  "duration": "29:05",
+  "description": {
+   "es": "Construcción del horno de haz atómico de potasio para un Stern-Gerlach casero: colimación con rendijas, calentamiento con control de temperatura y cuidados de alto vacío como evitar fugas virtuales. Tercera parte de la serie.",
+   "en": "Building the potassium atomic beam oven for a home-made Stern-Gerlach: slit collimation, temperature-controlled heating and high-vacuum care such as avoiding virtual leaks. Part three of the series."
+  },
+  "tags": {
+   "es": [
+    "física atómica",
+    "experimento de Stern-Gerlach",
+    "experimento",
+    "tutorial"
+   ],
+   "en": [
+    "atomic physics",
+    "Stern-Gerlach experiment",
+    "experiment",
+    "tutorial"
+   ]
+  }
+ },
+ {
+  "id": "problemas-investigacion",
+  "title": "Scientific research has big problems, and it's getting worse",
+  "author": "Sabine Hossenfelder",
+  "date": "2025-08-14",
+  "url": "https://www.youtube.com/watch?v=9yPy3DeMUyI",
+  "language": "en",
+  "duration": "18:38",
+  "description": {
+   "es": "Sabine Hossenfelder distingue tres problemas de la investigación científica: el fraude individual, el fraude organizado (fábricas de papers) y, el más grave, un sistema de incentivos que premia publicar y ser citado por sobre la utilidad, con ejemplos de física, psicología y biomedicina.",
+   "en": "Sabine Hossenfelder distinguishes three problems in scientific research: individual fraud, organized fraud (paper mills) and, most serious, an incentive system that rewards publishing and citations over usefulness, with examples from physics, psychology and biomedicine."
+  },
+  "tags": {
+   "es": [
+    "ciencia y sociedad",
+    "opinión"
+   ],
+   "en": [
+    "science and society",
+    "opinion"
+   ]
+  }
+ },
+ {
+  "id": "interaccion-debil",
+  "title": "The Weak Nuclear Interaction: The Most Astonishing “Force” in the Universe",
+  "author": "Terra Physica",
+  "date": "2025-08-08",
+  "url": "https://www.youtube.com/watch?v=WiQVklLV5RI",
+  "language": "en",
+  "duration": "23:13",
+  "description": {
+   "es": "Explica la interacción débil como mecanismo para bajar la energía cambiando el tipo de partícula, por qué los bosones W y Z masivos la hacen de muy corto alcance y poco frecuente, su papel en la formación del deuterio y cómo distingue materia de antimateria.",
+   "en": "Explains the weak interaction as a mechanism to lower energy by changing particle type, why the massive W and Z bosons make it very short-ranged and rare, its role in forming deuterium, and how it tells matter from antimatter."
+  },
+  "tags": {
+   "es": [
+    "física de partículas",
+    "interacción débil",
+    "modelo estándar",
+    "antimateria",
+    "simetrías"
+   ],
+   "en": [
+    "particle physics",
+    "weak interaction",
+    "standard model",
+    "antimatter",
+    "symmetries"
+   ]
+  }
+ },
+ {
+  "id": "plasma-quarks-gluones",
+  "title": "Quark-gluon plasma Explained - Ep. 1/2",
+  "author": "CERN",
+  "date": "2024-11-25",
+  "url": "https://www.youtube.com/watch?v=mBfJAcPOLrM",
+  "language": "en",
+  "duration": "11:58",
+  "description": {
+   "es": "Un físico del CERN explica el plasma de quarks y gluones: el confinamiento de los quarks, cómo las colisiones de núcleos de plomo en el LHC recrean el estado del universo diez microsegundos después del Big Bang y por qué la fuerza fuerte da casi toda la masa del protón.",
+   "en": "A CERN physicist explains the quark-gluon plasma: quark confinement, how lead-nucleus collisions at the LHC recreate the state of the universe ten microseconds after the Big Bang, and why the strong force accounts for nearly all of the proton's mass."
+  },
+  "tags": {
+   "es": [
+    "física de partículas",
+    "plasma de quarks y gluones",
+    "clase",
+    "masa",
+    "cosmología"
+   ],
+   "en": [
+    "particle physics",
+    "quark-gluon plasma",
+    "lecture",
+    "mass",
+    "cosmology"
+   ]
+  }
+ },
+ {
+  "id": "mecanica-lagrangiana",
+  "title": "Lagrangian Mechanics: when theoretical physics got real",
+  "author": "Dr. Jorge S. Diaz",
+  "date": "2025-10-07",
+  "url": "https://www.youtube.com/watch?v=QbnkIdw0HJQ",
+  "language": "en",
+  "duration": "29:56",
+  "description": {
+   "es": "Jorge Díaz deriva el principio de Hamilton a partir del principio de D'Alembert, siguiendo a Hamilton y Sommerfeld, para justificar por qué el lagrangiano es energía cinética menos potencial, y obtiene las ecuaciones de Euler-Lagrange con el oscilador armónico y el problema de Kepler.",
+   "en": "Jorge Díaz derives Hamilton's principle from D'Alembert's principle, following Hamilton and Sommerfeld, to justify why the Lagrangian is kinetic minus potential energy, and obtains the Euler-Lagrange equations with the harmonic oscillator and Kepler problem."
+  },
+  "tags": {
+   "es": [
+    "mecánica clásica",
+    "mecánica lagrangiana",
+    "historia de la física",
+    "física matemática"
+   ],
+   "en": [
+    "classical mechanics",
+    "Lagrangian mechanics",
+    "history of physics",
+    "mathematical physics"
+   ]
+  }
+ },
+ {
+  "id": "carroll-cuantica",
+  "title": "The problem with pretending quantum mechanics makes sense | Sean Carroll",
+  "author": "Big Think",
+  "date": "2026-01-19",
+  "url": "https://www.youtube.com/watch?v=u9YiM7LZ6b0",
+  "language": "en",
+  "duration": "50:19",
+  "description": {
+   "es": "Sean Carroll repasa la física fundamental: por qué la medición en la mecánica cuántica sigue sin entenderse, cómo la teoría cuántica de campos y el modelo estándar forman la 'core theory' y qué queda fuera de ella (gravedad cuántica, teoría de cuerdas).",
+   "en": "Sean Carroll surveys fundamental physics: why measurement in quantum mechanics is still not understood, how quantum field theory and the standard model make up the 'core theory', and what lies beyond it (quantum gravity, string theory)."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "interpretaciones de la cuántica",
+    "teoría de la medida cuántica",
+    "conferencia",
+    "teoría cuántica de campos",
+    "modelo estándar"
+   ],
+   "en": [
+    "quantum mechanics",
+    "interpretations of quantum mechanics",
+    "quantum measurement",
+    "talk",
+    "quantum field theory",
+    "standard model"
+   ]
+  }
+ },
+ {
+  "id": "nacimiento-mecanica-cuantica",
+  "title": "The birth of Quantum Mechanics",
+  "author": "Dr. Jorge S. Diaz",
+  "date": "2026-01-27",
+  "url": "https://www.youtube.com/watch?v=XQAAU11DbDI",
+  "language": "en",
+  "duration": "47:53",
+  "description": {
+   "es": "Reconstruye cómo, tras el artículo de Heisenberg de 1925, Born y Jordan reconocieron en su regla de multiplicación el álgebra de matrices y dedujeron la relación de conmutación canónica; sigue con el trabajo a tres manos, Pauli y el átomo de hidrógeno y el aporte independiente de Dirac.",
+   "en": "Reconstructs how, after Heisenberg's 1925 paper, Born and Jordan recognized matrix algebra in his multiplication rule and derived the canonical commutation relation; it continues with the three-man paper, Pauli and the hydrogen atom, and Dirac's independent contribution."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "historia de la física"
+   ],
+   "en": [
+    "quantum mechanics",
+    "history of physics"
+   ]
+  }
+ },
+ {
+  "id": "baquelita",
+  "title": "Así se creó el primer plástico de la historia: la Baquelita",
+  "author": "Reacciona Explota",
+  "date": "2026-03-15",
+  "url": "https://www.youtube.com/watch?v=wRYP79P0arU",
+  "language": "es",
+  "duration": "26:31",
+  "description": {
+   "es": "Historia de la baquelita, el primer plástico totalmente sintético: del caucho vulcanizado, la nitrocelulosa y el celuloide a la resina de fenol y formaldehído de Leo Baekeland, que el canal recrea en el laboratorio, y el problema actual de los residuos plásticos.",
+   "en": "History of Bakelite, the first fully synthetic plastic: from vulcanized rubber, nitrocellulose and celluloid to Leo Baekeland's phenol-formaldehyde resin, which the channel recreates in the lab, and today's plastic waste problem."
+  },
+  "tags": {
+   "es": [
+    "química",
+    "historia de la ciencia",
+    "plásticos",
+    "experimento",
+    "ciencia y sociedad"
+   ],
+   "en": [
+    "chemistry",
+    "history of science",
+    "plastics",
+    "experiment",
+    "science and society"
+   ]
+  }
+ },
+ {
+  "id": "antimateria-cern",
+  "title": "What happens if you drop 0.125 grams of antimatter?",
+  "author": "Veritasium",
+  "date": "2026-04-05",
+  "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8",
+  "language": "en",
+  "duration": "58:53",
+  "description": {
+   "es": "Veritasium recorre la fábrica de antimateria del CERN: cómo se producen y frenan los antiprotones, cómo se forma antihidrógeno, si la antimateria cae como la materia y por qué el universo tiene más materia que antimateria (violación de CP, experimento de Wu).",
+   "en": "Veritasium tours CERN's antimatter factory: how antiprotons are produced and slowed, how antihydrogen is made, whether antimatter falls like matter, and why the universe has more matter than antimatter (CP violation, the Wu experiment)."
+  },
+  "tags": {
+   "es": [
+    "física de partículas",
+    "antimateria",
+    "documental",
+    "simetrías",
+    "interacción débil",
+    "cosmología"
+   ],
+   "en": [
+    "particle physics",
+    "antimatter",
+    "documentary",
+    "symmetries",
+    "weak interaction",
+    "cosmology"
+   ]
+  }
+ },
+ {
+  "id": "contacto-voyager",
+  "title": "¿Cómo seguimos en contacto con la Voyager?",
+  "author": "AstroKobi en Español",
+  "date": "2026-04-03",
+  "url": "https://www.youtube.com/watch?v=e3spyNdIgoY",
+  "language": "es",
+  "duration": "13:07",
+  "description": {
+   "es": "Desde el JPL, cómo se mantiene el contacto con las Voyager a más de 24.000 millones de km: la Red del Espacio Profundo, transmisores de apenas unos vatios, generadores de plutonio que se agotan y los rescates de 2022 y 2023.",
+   "en": "From JPL, how contact is kept with the Voyagers more than 24 billion km away: the Deep Space Network, transmitters of just a few watts, dwindling plutonium generators and the 2022 and 2023 rescues."
+  },
+  "tags": {
+   "es": [
+    "astronomía",
+    "exploración espacial",
+    "antenas",
+    "radiación electromagnética"
+   ],
+   "en": [
+    "astronomy",
+    "space exploration",
+    "antennas",
+    "electromagnetic radiation"
+   ]
+  }
+ },
+ {
+  "id": "bagu-vida-otros-planetas",
+  "title": "Diego Bagú: “Somos la generación que va a ver VIDA de OTROS PLANETAS” | Especialista en ASTRONOMÍA",
+  "author": "GELATINA",
+  "date": "2025-06-25",
+  "url": "https://www.youtube.com/watch?v=NMZTq-BEyq8",
+  "language": "es",
+  "duration": "52:34",
+  "description": {
+   "es": "Charla en el streaming Gelatina con el astrónomo platense Diego Bagú, que responde preguntas básicas sobre historia de la astronomía, energía oscura, Big Bang, agujeros negros, la nueva carrera espacial, el terraplanismo y la búsqueda de vida fuera de la Tierra.",
+   "en": "Conversation on the Gelatina stream with La Plata astronomer Diego Bagú, who answers basic questions on the history of astronomy, dark energy, the Big Bang, black holes, the new space race, flat-Earthism and the search for life beyond Earth."
+  },
+  "tags": {
+   "es": [
+    "astronomía",
+    "astrobiología",
+    "ciencia argentina",
+    "entrevista",
+    "cosmología",
+    "exploración espacial"
+   ],
+   "en": [
+    "astronomy",
+    "astrobiology",
+    "Argentine science",
+    "interview",
+    "cosmology",
+    "space exploration"
+   ]
+  }
+ },
+ {
+  "id": "invento-cambio-historia",
+  "title": "EL INVENTO que CAMBIÓ la HISTORIA | Julia ROSEMBERG con Pedro ROSEMBLAT",
+  "author": "GELATINA",
+  "date": "2026-04-20",
+  "url": "https://www.youtube.com/watch?v=AQtVhbiN_oU",
+  "language": "es",
+  "duration": "31:14",
+  "description": {
+   "es": "Julia Rosemberg repasa en Gelatina la historia del reloj, del de agua y el de sol al mecánico de los monasterios, y discute con Lewis Mumford y Jonathan Crary cómo la medición del tiempo moldeó el trabajo, el capitalismo y hasta el sueño.",
+   "en": "On Gelatina, Julia Rosemberg traces the history of the clock, from water clocks and sundials to the mechanical clocks of monasteries, and discusses with Lewis Mumford and Jonathan Crary how timekeeping shaped work, capitalism and even sleep."
+  },
+  "tags": {
+   "es": [
+    "historia de la ciencia",
+    "entrevista",
+    "reloj",
+    "ciencia y sociedad"
+   ],
+   "en": [
+    "history of science",
+    "interview",
+    "clock",
+    "science and society"
+   ]
+  }
+ },
+ {
+  "id": "ajuste-fino-controversia",
+  "title": "The Most Controversial Idea In Physics",
+  "author": "SciencePetr",
+  "date": "2026-07-09",
+  "url": "https://www.youtube.com/watch?v=oi91kE_wocs",
+  "language": "en",
+  "duration": "26:42",
+  "description": {
+   "es": "Repasa qué pasaría si se cambiaran constantes como la diferencia de masa protón-neutrón, la fuerza fuerte, la gravedad o la constante cosmológica, y discute con Geraint Lewis las respuestas posibles: principio antrópico, una teoría más profunda, un creador o el multiverso.",
+   "en": "Reviews what would happen if constants such as the proton-neutron mass difference, the strong force, gravity or the cosmological constant were changed, and discusses with Geraint Lewis the possible answers: anthropic principle, a deeper theory, a creator or the multiverse."
+  },
+  "tags": {
+   "es": [
+    "cosmología",
+    "ajuste fino",
+    "entrevista",
+    "física de partículas",
+    "astrofísica"
+   ],
+   "en": [
+    "cosmology",
+    "fine tuning",
+    "interview",
+    "particle physics",
+    "astrophysics"
+   ]
+  }
+ },
+ {
+  "id": "aceleracion-crea-luz",
+  "title": "Why Does Acceleration Create Light?",
+  "author": "Physics Explained",
+  "date": "2026-07-30",
+  "url": "https://www.youtube.com/watch?v=4p7JJ6VPnTM",
+  "language": "en",
+  "duration": "27:34",
+  "description": {
+   "es": "Siguiendo el razonamiento de J. J. Thomson, muestra con animaciones cómo al acelerar una carga se forma un quiebre en sus líneas de campo que viaja a la velocidad de la luz, de donde salen el campo transversal de radiación, el tiempo retardado y la emisión de las antenas.",
+   "en": "Following J. J. Thomson's reasoning, it shows with animations how accelerating a charge creates a kink in its field lines that travels at the speed of light, giving the transverse radiation field, retarded time and the emission of antennas."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "radiación electromagnética",
+    "animación",
+    "Maxwell",
+    "velocidad de la luz"
+   ],
+   "en": [
+    "electromagnetism",
+    "electromagnetic radiation",
+    "animation",
+    "Maxwell",
+    "speed of light"
+   ]
+  }
+ },
+ {
+  "id": "problemas-sin-respuesta",
+  "title": "Every Physics Problems That Still Have No Answer",
+  "author": "Mr Space Explainer",
+  "date": "2026-07-29",
+  "url": "https://www.youtube.com/watch?v=ugFQWGfEEcY",
+  "language": "en",
+  "duration": "25:39",
+  "description": {
+   "es": "Repaso de quince problemas abiertos de la física, de la sonoluminiscencia y la superconductividad de alta temperatura a la materia oscura y la tensión de Hubble.",
+   "en": "Survey of fifteen open problems in physics, from sonoluminescence and high-temperature superconductivity to dark matter and the Hubble tension."
+  },
+  "tags": {
+   "es": [
+    "problemas abiertos",
+    "cosmología",
+    "física de partículas",
+    "materia condensada",
+    "gravedad cuántica",
+    "dinámica de fluidos"
+   ],
+   "en": [
+    "open problems",
+    "cosmology",
+    "particle physics",
+    "condensed matter",
+    "quantum gravity",
+    "fluid dynamics"
+   ]
+  }
+ },
+ {
+  "id": "medicion-velocidad-luz",
+  "title": "How Was the Speed of Light First Measured?",
+  "author": "Physics Explained",
+  "date": "2026-05-30",
+  "url": "https://www.youtube.com/watch?v=8yhk1EZq9tY",
+  "language": "en",
+  "duration": "34:16",
+  "description": {
+   "es": "Cómo los eclipses de Ío, usados para determinar la longitud geográfica, revelaron que la luz tarda en viajar: de Galileo y las tablas de Cassini a la predicción de Rømer en 1676, con el razonamiento del retraso acumulado explicado paso a paso.",
+   "en": "How the eclipses of Io, used to determine geographic longitude, revealed that light takes time to travel: from Galileo and Cassini's tables to Rømer's 1676 prediction, with the accumulated-delay reasoning explained step by step."
+  },
+  "tags": {
+   "es": [
+    "historia de la física",
+    "velocidad de la luz",
+    "astronomía"
+   ],
+   "en": [
+    "history of physics",
+    "speed of light",
+    "astronomy"
+   ]
+  }
+ },
+ {
+  "id": "agujeros-negros-tiempo",
+  "title": "I finally understood why blackholes seem to slow down time. Even though they don't!",
+  "author": "FloatHeadPhysics",
+  "date": "2026-04-24",
+  "url": "https://www.youtube.com/watch?v=lZrW5cGl1fU",
+  "language": "en",
+  "duration": "45:25",
+  "description": {
+   "es": "Mahesh, en un diálogo imaginario con Rindler, construye el horizonte de un agujero negro a partir de observadores acelerados y la simultaneidad relativista, y muestra por qué quien cae sí cruza el horizonte aunque nunca ocurra en el tiempo de quien lo mira desde afuera.",
+   "en": "Mahesh, in an imagined dialogue with Rindler, builds a black hole horizon from accelerated observers and relativistic simultaneity, and shows why someone falling in does cross the horizon even though it never happens in the time of an outside observer."
+  },
+  "tags": {
+   "es": [
+    "relatividad",
+    "agujeros negros",
+    "espacio-tiempo"
+   ],
+   "en": [
+    "relativity",
+    "black holes",
+    "spacetime"
+   ]
+  }
+ },
+ {
+  "id": "dipolo-corriente",
+  "title": "The Current Structure on a Half-wave Dipole — Lesson 2",
+  "author": "EMViso",
+  "date": "2021-08-08",
+  "url": "https://www.youtube.com/watch?v=Uiu4m-nupPE",
+  "language": "en",
+  "duration": "4:59",
+  "description": {
+   "es": "Clase sobre el dipolo de media onda: cómo se forma en sus extremos el par de cargas que le da nombre, por qué los campos de borde lo hacen eléctricamente más largo y hay que acortarlo, y la distribución sinusoidal de corriente, nula en los extremos y máxima en el centro.",
+   "en": "Lesson on the half-wave dipole: how the pair of charges that gives it its name forms at the ends, why fringing fields make it electrically longer so it must be trimmed, and the sinusoidal current distribution, zero at the ends and maximum at the center."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "antenas",
+    "clase"
+   ],
+   "en": [
+    "electromagnetism",
+    "antennas",
+    "lecture"
+   ]
+  }
+ },
+ {
+  "id": "dipolo-radiacion",
+  "title": "The Theoretical Radiation Pattern of a Half-wave Dipole — Lesson 3",
+  "author": "EMViso",
+  "date": "2021-08-10",
+  "url": "https://www.youtube.com/watch?v=8Kq8htzbBpc",
+  "language": "en",
+  "duration": "4:39",
+  "description": {
+   "es": "Clase sobre el diagrama de radiación teórico de un dipolo de media onda: simetría alrededor del eje, nulos en la dirección del cable, directividad máxima de 2,16 dBi y una impedancia de entrada de unos 73 + j42,5 ohms, inductiva por los campos de borde.",
+   "en": "Lesson on the theoretical radiation pattern of a half-wave dipole: symmetry around its axis, nulls along the wire, a maximum directivity of 2.16 dBi and an input impedance of about 73 + j42.5 ohms, inductive because of fringing fields."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "antenas",
+    "radiación electromagnética",
+    "clase"
+   ],
+   "en": [
+    "electromagnetism",
+    "antennas",
+    "electromagnetic radiation",
+    "lecture"
+   ]
+  }
+ },
+ {
+  "id": "antena-efhw",
+  "title": "Build Your Own End-Fed Half-Wave Antenna [A Complete Guide to EFHW]",
+  "author": "W2PAK",
+  "date": "2024-10-03",
+  "url": "https://www.youtube.com/watch?v=SBrc1DpMk_w",
+  "language": "en",
+  "duration": "22:01",
+  "description": {
+   "es": "W2PAK explica por qué una antena de media onda alimentada por el extremo funciona en varias bandas, la simula, calcula y bobina su transformador 49:1, la ajusta midiendo la ROE y la compara en el aire con una vertical.",
+   "en": "W2PAK explains why an end-fed half-wave antenna works on several bands, simulates it, calculates and winds its 49:1 transformer, tunes it by measuring SWR and compares it on the air with a vertical."
+  },
+  "tags": {
+   "es": [
+    "antenas",
+    "radioafición",
+    "tutorial",
+    "electromagnetismo"
+   ],
+   "en": [
+    "antennas",
+    "amateur radio",
+    "tutorial",
+    "electromagnetism"
+   ]
+  }
+ },
+ {
+  "id": "mito-efhw",
+  "title": "The BIGGEST Myth About End Fed Halfwave Antennas!",
+  "author": "TheSmokinApe Ham Radio",
+  "date": "2026-07-31",
+  "url": "https://www.youtube.com/watch?v=L_Lwcqmab5o",
+  "language": "en",
+  "duration": "13:34",
+  "description": {
+   "es": "Explica con las leyes de Kirchhoff por qué una antena EFHW siempre necesita un camino de retorno para la corriente: sin contrapeso, la malla del coaxial pasa a ser parte de la antena. Repasa el transformador 49:1 y el uso de choques de modo común.",
+   "en": "Uses Kirchhoff's laws to explain why an EFHW antenna always needs a return path for current: without a counterpoise, the coax shield becomes part of the antenna. It also covers the 49:1 transformer and the use of common-mode chokes."
+  },
+  "tags": {
+   "es": [
+    "antenas",
+    "radioafición",
+    "electromagnetismo",
+    "tutorial"
+   ],
+   "en": [
+    "antennas",
+    "amateur radio",
+    "electromagnetism",
+    "tutorial"
+   ]
+  }
+ },
+ {
+  "id": "tipos-de-antenas",
+  "title": "Every Type of Antenna Explained",
+  "author": "Eric Explains",
+  "date": "2026-05-13",
+  "url": "https://www.youtube.com/watch?v=cGloedjeltI",
+  "language": "en",
+  "duration": "17:31",
+  "description": {
+   "es": "Recorrido por doce tipos de antena (dipolo, monopolo, Yagi-Uda, parabólica, de lazo, helicoidal, patch, arreglo en fase, fractal, látigo, de ranura y log-periódica): cómo funciona cada una y dónde se usa.",
+   "en": "A tour of twelve antenna types (dipole, monopole, Yagi-Uda, dish, loop, helical, patch, phased array, fractal, whip, slot and log-periodic): how each one works and where it is used."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "antenas",
+    "animación",
+    "radiación electromagnética"
+   ],
+   "en": [
+    "electromagnetism",
+    "antennas",
+    "animation",
+    "electromagnetic radiation"
+   ]
+  }
+ },
+ {
+  "id": "gravedad-cuantica",
+  "title": "Why Quantum Gravity Doesn't Work",
+  "author": "Physics Explained",
+  "date": "2025-10-25",
+  "url": "https://www.youtube.com/watch?v=yTEPm5d6mrI",
+  "language": "en",
+  "duration": "29:21",
+  "description": {
+   "es": "Compara la gravedad con la electrodinámica cuántica: en QED los infinitos se renormalizan, pero el acoplamiento gravitatorio crece con el cuadrado de la energía y el método perturbativo falla en la escala de Planck, aunque la gravedad cuántica funciona como teoría efectiva a bajas energías.",
+   "en": "Compares gravity with quantum electrodynamics: in QED infinities are renormalized, but the gravitational coupling grows with the square of the energy and the perturbative method fails at the Planck scale, although quantum gravity works as an effective theory at low energies."
+  },
+  "tags": {
+   "es": [
+    "gravedad cuántica",
+    "relatividad",
+    "electrodinámica cuántica",
+    "teoría cuántica de campos"
+   ],
+   "en": [
+    "quantum gravity",
+    "relativity",
+    "quantum electrodynamics",
+    "quantum field theory"
+   ]
+  }
+ },
+ {
+  "id": "cargas-aceleradas-radian",
+  "title": "Why Accelerating Charges Radiate",
+  "author": "Physical Intuition",
+  "date": "2026-08-21",
+  "url": "https://www.youtube.com/watch?v=ApVZeYj5K7A",
+  "language": "en",
+  "duration": "14:19",
+  "description": {
+   "es": "Construye una imagen geométrica de por qué irradia una carga acelerada usando solo la ley de Coulomb, la relatividad y las líneas de campo, al estilo de Purcell.",
+   "en": "Builds a geometric picture of why an accelerating charge radiates using only Coulomb's law, relativity and field lines, in the style of Purcell."
+  },
+  "tags": {
+   "es": [
+    "electromagnetismo",
+    "radiación electromagnética",
+    "relatividad",
+    "animación",
+    "Maxwell"
+   ],
+   "en": [
+    "electromagnetism",
+    "electromagnetic radiation",
+    "relativity",
+    "animation",
+    "Maxwell"
+   ]
+  }
+ },
+ {
+  "id": "interior-del-nucleo",
+  "title": "Do We ACTUALLY Know What’s Inside the Nucleus?",
+  "author": "Physics Explained",
+  "date": "2026-08-22",
+  "url": "https://www.youtube.com/watch?v=BLUlTsdPEwY",
+  "language": "en",
+  "duration": "47:41",
+  "description": {
+   "es": "Del experimento de Rutherford a la dispersión de electrones que midió el radio nuclear: densidad nuclear, fuerza fuerte e intercambio de piones, energía de ligadura, modelo de capas y números mágicos, y desintegraciones alfa y beta.",
+   "en": "From Rutherford's experiment to the electron scattering that measured the nuclear radius: nuclear density, the strong force and pion exchange, binding energy, the shell model and magic numbers, and alpha and beta decay."
+  },
+  "tags": {
+   "es": [
+    "física nuclear",
+    "núcleo atómico",
+    "historia de la física",
+    "interacción débil"
+   ],
+   "en": [
+    "nuclear physics",
+    "atomic nucleus",
+    "history of physics",
+    "weak interaction"
+   ]
+  }
+ },
+ {
+  "id": "electron-gira-300c",
+  "title": "This Particle Spins at 300× the Speed of Light",
+  "author": "Physics Explained",
+  "date": "2025-07-26",
+  "url": "https://www.youtube.com/watch?v=piC8T2HnzrU",
+  "language": "en",
+  "duration": "27:15",
+  "description": {
+   "es": "Si el electrón fuera una esfera cargada que gira, con el radio clásico y el momento angular cuantizado de Bohr su superficie superaría la velocidad de la luz; el video usa esa contradicción para motivar el espín como momento angular intrínseco.",
+   "en": "If the electron were a spinning charged sphere, with the classical radius and Bohr's quantized angular momentum its surface would exceed the speed of light; the video uses this contradiction to motivate spin as intrinsic angular momentum."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "espín",
+    "relatividad",
+    "velocidad de la luz",
+    "electromagnetismo"
+   ],
+   "en": [
+    "quantum mechanics",
+    "spin",
+    "relativity",
+    "speed of light",
+    "electromagnetism"
+   ]
+  }
+ },
+ {
+  "id": "navier-stokes",
+  "title": "Las ecuaciones de Navier-Stokes ¿Por qué te pagan un millón de dólares por resolverlas?",
+  "author": "Pulpo Culto",
+  "date": "2024-05-17",
+  "url": "https://www.youtube.com/watch?v=EemV0O1xWvA",
+  "language": "es",
+  "duration": "7:37",
+  "description": {
+   "es": "Recorre la historia de la mecánica de fluidos, de Arquímedes, Newton, Pascal, Euler y Bernoulli a Navier y Stokes, y explica que estas ecuaciones son la segunda ley de Newton aplicada a fluidos y por qué su término no lineal las vuelve uno de los problemas del milenio.",
+   "en": "Traces the history of fluid mechanics, from Archimedes, Newton, Pascal, Euler and Bernoulli to Navier and Stokes, and explains that these equations are Newton's second law applied to fluids and why their nonlinear term makes them one of the Millennium Prize Problems."
+  },
+  "tags": {
+   "es": [
+    "mecánica clásica",
+    "dinámica de fluidos",
+    "problemas abiertos",
+    "historia de la física"
+   ],
+   "en": [
+    "classical mechanics",
+    "fluid dynamics",
+    "open problems",
+    "history of physics"
+   ]
+  }
+ },
+ {
+  "id": "helio-teoria-cuantica",
+  "title": "When helium broke quantum theory",
+  "author": "Dr. Jorge S. Diaz",
+  "date": "2026-09-05",
+  "url": "https://www.youtube.com/watch?v=EqgbfdesMG4",
+  "language": "en",
+  "duration": "22:11",
+  "description": {
+   "es": "Historia de la 'crisis del helio': por qué el modelo de Bohr, el cálculo de Debye, el apantallamiento de Sommerfeld y el modelo vectorial de Landé fallaron, hasta que en 1928 el maestro noruego Hylleraas lo resolvió con la mecánica de Schrödinger y el método variacional.",
+   "en": "History of the 'helium crisis': why Bohr's model, Debye's calculation, Sommerfeld's screening and Landé's vector model failed, until in 1928 the Norwegian schoolteacher Hylleraas solved it with Schrödinger's mechanics and the variational method."
+  },
+  "tags": {
+   "es": [
+    "física atómica",
+    "historia de la física",
+    "átomo",
+    "mecánica cuántica"
+   ],
+   "en": [
+    "atomic physics",
+    "history of physics",
+    "atom",
+    "quantum mechanics"
+   ]
+  }
+ },
+ {
+  "id": "energia-en-paquetes",
+  "title": "Why Does Energy Come in Packets?",
+  "author": "π in Motion",
+  "date": "2026-09-10",
+  "url": "https://www.youtube.com/watch?v=5y_HHT2ajr0",
+  "language": "en",
+  "duration": "31:19",
+  "description": {
+   "es": "Sigue el problema de la radiación de cuerpo negro desde Kirchhoff y Wien hasta el conteo de modos de Rayleigh y la catástrofe ultravioleta, y explica por qué los elementos de energía de Planck la evitan; cierra con el intento clásico de Jeans y los cuantos de luz de Einstein.",
+   "en": "Follows the blackbody radiation problem from Kirchhoff and Wien to Rayleigh's mode counting and the ultraviolet catastrophe, and explains why Planck's energy elements avoid it; it ends with Jeans's classical attempt and Einstein's light quanta."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "radiación de cuerpo negro",
+    "historia de la física",
+    "termodinámica",
+    "física estadística"
+   ],
+   "en": [
+    "quantum mechanics",
+    "blackbody radiation",
+    "history of physics",
+    "thermodynamics",
+    "statistical physics"
+   ]
+  }
+ },
+ {
+  "id": "realidad-cuantica-3",
+  "title": "Can Quantum Particles Communicate Faster Than Light? – Quantum Reality (3/3) with Jim Al-Khalili",
+  "author": "Unbaffled with Jim Al-Khalili",
+  "date": "2026-07-20",
+  "url": "https://www.youtube.com/watch?v=SMQN4xPy7m0",
+  "language": "en",
+  "duration": "31:55",
+  "description": {
+   "es": "Último episodio de la serie de Jim Al-Khalili: explica el teorema de Bell y los experimentos que confirman la no localidad, y compara cómo la enfrentan los muchos mundos, la onda piloto y el colapso objetivo, y qué implican para la relatividad y la comunicación más rápida que la luz.",
+   "en": "Final episode of Jim Al-Khalili's series: explains Bell's theorem and the experiments confirming non-locality, and compares how many-worlds, pilot-wave and objective-collapse theories deal with it and what they imply for relativity and faster-than-light signalling."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "teorema de Bell",
+    "entrelazamiento",
+    "interpretaciones de la cuántica",
+    "relatividad"
+   ],
+   "en": [
+    "quantum mechanics",
+    "Bell's theorem",
+    "entanglement",
+    "interpretations of quantum mechanics",
+    "relativity"
+   ]
+  }
+ },
+ {
+  "id": "que-es-el-espacio",
+  "title": "But What Is SPACE?",
+  "author": "Mr. Physik",
+  "date": "2026-08-20",
+  "url": "https://www.youtube.com/watch?v=qUtPm1eR7hQ",
+  "language": "en",
+  "duration": "16:10",
+  "description": {
+   "es": "Qué es el espacio según la física: el balde de Newton frente al espacio relacional de Leibniz, la geometría dinámica de Einstein, el vacío cuántico y el efecto Casimir, y las ideas de gravedad cuántica (entropía de agujeros negros, holografía, AdS/CFT) que sugieren un espacio emergente del entrelazamiento.",
+   "en": "Explores what space is according to physics: Newton's bucket versus Leibniz's relational space, Einstein's dynamical geometry, the quantum vacuum and the Casimir effect, and quantum gravity ideas (black hole entropy, holography, AdS/CFT) suggesting space emerges from entanglement."
+  },
+  "tags": {
+   "es": [
+    "relatividad",
+    "espacio-tiempo",
+    "gravedad cuántica",
+    "entrelazamiento",
+    "agujeros negros"
+   ],
+   "en": [
+    "relativity",
+    "spacetime",
+    "quantum gravity",
+    "entanglement",
+    "black holes"
+   ]
+  }
+ },
+ {
+  "id": "que-es-una-particula",
+  "title": "But What Actually Is a Particle? How Quantum Fields Shape Reality",
+  "author": "Physics Explained",
+  "date": "2025-06-14",
+  "url": "https://www.youtube.com/watch?v=KLIS4lq1mBE",
+  "language": "en",
+  "duration": "35:19",
+  "description": {
+   "es": "Desde ondas en una cuerda y osciladores armónicos hasta campos relativistas cuantizados: muestra que una partícula es la mínima vibración de un campo cuántico y que la masa corresponde a una frecuencia mínima de oscilación del campo.",
+   "en": "From waves on a rope and harmonic oscillators to quantized relativistic fields: shows that a particle is the smallest vibration of a quantum field and that mass corresponds to a minimum oscillation frequency of the field."
+  },
+  "tags": {
+   "es": [
+    "teoría cuántica de campos",
+    "física de partículas",
+    "mecánica cuántica",
+    "masa",
+    "relatividad"
+   ],
+   "en": [
+    "quantum field theory",
+    "particle physics",
+    "quantum mechanics",
+    "mass",
+    "relativity"
+   ]
+  }
+ },
+ {
+  "id": "resultados-perturbadores",
+  "title": "The Most Disturbing Things Proven By Physics",
+  "author": "Mr Space Explainer",
+  "date": "2026-10-01",
+  "url": "https://www.youtube.com/watch?v=vxDdhyl0sGA",
+  "language": "en",
+  "duration": "26:30",
+  "description": {
+   "es": "Nueve resultados que fijan límites a lo que la naturaleza permite: exclusión de Pauli, teorema de Noether, no-clonado, efecto Zeno cuántico, principio de Landauer, desigualdad de Leggett-Garg, no-comunicación, amigo de Wigner y teorema de Bell, con los experimentos que los confirmaron.",
+   "en": "Nine results that set limits on what nature allows: Pauli exclusion, Noether's theorem, no-cloning, the quantum Zeno effect, Landauer's principle, the Leggett-Garg inequality, no-communication, Wigner's friend and Bell's theorem, with the experiments that confirmed them."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "teorema de Bell",
+    "entrelazamiento",
+    "simetrías",
+    "teoría de la medida cuántica",
+    "termodinámica"
+   ],
+   "en": [
+    "quantum mechanics",
+    "Bell's theorem",
+    "entanglement",
+    "symmetries",
+    "quantum measurement",
+    "thermodynamics"
+   ]
+  }
+ },
+ {
+  "id": "einstein-de-haas",
+  "title": "When Einstein glimpsed spin 10 years too early",
+  "author": "Dr. Jorge S. Diaz",
+  "date": "2026-10-17",
+  "url": "https://www.youtube.com/watch?v=PnUkLtU0Tsc",
+  "language": "en",
+  "duration": "23:21",
+  "description": {
+   "es": "Historia del efecto Einstein-de Haas, el único experimento de Einstein: buscaba confirmar las corrientes moleculares de Ampère, descartó una medición incómoda y publicó un factor g erróneo; experimentos posteriores revelaron la anomalía giromagnética, que terminó explicando el espín del electrón.",
+   "en": "The story of the Einstein-de Haas effect, Einstein's only experiment: aiming to confirm Ampère's molecular currents, he discarded an inconvenient measurement and published a wrong g-factor; later experiments revealed the gyromagnetic anomaly, eventually explained by electron spin."
+  },
+  "tags": {
+   "es": [
+    "historia de la física",
+    "espín",
+    "electromagnetismo",
+    "mecánica cuántica"
+   ],
+   "en": [
+    "history of physics",
+    "spin",
+    "electromagnetism",
+    "quantum mechanics"
+   ]
+  }
+ },
+ {
+  "id": "glitches-newton",
+  "title": "8 Disturbing Mathematical Glitches Hiding Inside Newton's Universe",
+  "author": "Stickman Space",
+  "date": "2026-10-19",
+  "url": "https://www.youtube.com/watch?v=wLkGkSzivjg",
+  "language": "en",
+  "duration": "25:17",
+  "description": {
+   "es": "Ocho fallas sorprendentes de la física clásica contadas con su historia: el teorema de Bertrand, la paradoja de Gibbs, la lámpara de Thomson, el domo de Norton, la mariposa de Lorenz, Poincaré y los tres cuerpos, la serie de Sundman y la partícula de Xia que escapa al infinito en tiempo finito.",
+   "en": "Eight surprising glitches of classical physics told through their history: Bertrand's theorem, the Gibbs paradox, Thomson's lamp, Norton's dome, Lorenz's butterfly, Poincaré and the three-body problem, Sundman's series, and Xia's particle escaping to infinity in finite time."
+  },
+  "tags": {
+   "es": [
+    "mecánica clásica",
+    "caos",
+    "animación",
+    "matemática",
+    "historia de la física"
+   ],
+   "en": [
+    "classical mechanics",
+    "chaos",
+    "animation",
+    "mathematics",
+    "history of physics"
+   ]
+  }
+ },
+ {
+  "id": "glitches-matematicos",
+  "title": "8 Impossible Mathematical Glitches That Mathematicians Have Actually Proven True",
+  "author": "Stickman Space",
+  "date": "2026-10-18",
+  "url": "https://www.youtube.com/watch?v=-sxxpm0nL5M",
+  "language": "en",
+  "duration": "23:17",
+  "description": {
+   "es": "Ocho resultados matemáticos demostrados que contradicen la intuición: el hotel de Hilbert, el teorema de reordenamiento de Riemann, los dados no transitivos de Efron, la función de Weierstrass, la curva de Peano, la aguja de Kakeya, Borsuk-Ulam y los números no computables.",
+   "en": "Eight proven mathematical results that defy intuition: Hilbert's hotel, Riemann's rearrangement theorem, Efron's non-transitive dice, the Weierstrass function, Peano's curve, the Kakeya needle, Borsuk-Ulam and uncomputable numbers."
+  },
+  "tags": {
+   "es": [
+    "matemática",
+    "animación"
+   ],
+   "en": [
+    "mathematics",
+    "animation"
+   ]
+  }
+ },
+ {
+  "id": "energia-del-electron",
+  "title": "¿De dónde saca su energía un electrón que nunca se detiene?",
+  "author": "Linea de Campo",
+  "date": "2026-11-11",
+  "url": "https://www.youtube.com/watch?v=kmgOf0hPd5Q",
+  "language": "es",
+  "duration": "46:15",
+  "description": {
+   "es": "Por qué el electrón no cae al núcleo ni se cansa: de Bohr, de Broglie y Schrödinger al estado fundamental como onda atrapada sin energía que ceder, y la misma idea puesta a prueba en la fosforescencia, las enanas blancas, el color del oro y la superconductividad.",
+   "en": "Why the electron neither falls into the nucleus nor runs down: from Bohr, de Broglie and Schrödinger to the ground state as a trapped wave with no energy to give away, and the same idea tested on phosphorescence, white dwarfs, the color of gold and superconductivity."
+  },
+  "tags": {
+   "es": [
+    "mecánica cuántica",
+    "física atómica",
+    "átomo",
+    "historia de la física"
+   ],
+   "en": [
+    "quantum mechanics",
+    "atomic physics",
+    "atom",
+    "history of physics"
+   ]
+  }
+ }
+]

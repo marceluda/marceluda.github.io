@@ -267,6 +267,7 @@ GEM
       sawyer (~> 0.9)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    prism (2.1.0)
     prism (2.1.0-aarch64-linux-gnu)
     prism (2.1.0-aarch64-linux-musl)
     prism (2.1.0-arm-linux-gnu)

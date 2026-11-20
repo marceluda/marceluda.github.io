@@ -1,0 +1,390 @@
+[
+ {
+  "es": "Áreas",
+  "en": "Areas",
+  "tags": [
+   {
+    "es": "historia de la física",
+    "en": "history of physics",
+    "n": 15
+   },
+   {
+    "es": "mecánica cuántica",
+    "en": "quantum mechanics",
+    "n": 15
+   },
+   {
+    "es": "electromagnetismo",
+    "en": "electromagnetism",
+    "n": 12
+   },
+   {
+    "es": "relatividad",
+    "en": "relativity",
+    "n": 9
+   },
+   {
+    "es": "física de partículas",
+    "en": "particle physics",
+    "n": 8
+   },
+   {
+    "es": "cosmología",
+    "en": "cosmology",
+    "n": 7
+   },
+   {
+    "es": "ciencia y sociedad",
+    "en": "science and society",
+    "n": 5
+   },
+   {
+    "es": "física atómica",
+    "en": "atomic physics",
+    "n": 5
+   },
+   {
+    "es": "historia de la ciencia",
+    "en": "history of science",
+    "n": 4
+   },
+   {
+    "es": "termodinámica",
+    "en": "thermodynamics",
+    "n": 4
+   },
+   {
+    "es": "astronomía",
+    "en": "astronomy",
+    "n": 3
+   },
+   {
+    "es": "física estadística",
+    "en": "statistical physics",
+    "n": 3
+   },
+   {
+    "es": "matemática",
+    "en": "mathematics",
+    "n": 3
+   },
+   {
+    "es": "mecánica clásica",
+    "en": "classical mechanics",
+    "n": 3
+   },
+   {
+    "es": "óptica",
+    "en": "optics",
+    "n": 2
+   },
+   {
+    "es": "astrofísica",
+    "en": "astrophysics",
+    "n": 1
+   },
+   {
+    "es": "física matemática",
+    "en": "mathematical physics",
+    "n": 1
+   },
+   {
+    "es": "física nuclear",
+    "en": "nuclear physics",
+    "n": 1
+   },
+   {
+    "es": "materia condensada",
+    "en": "condensed matter",
+    "n": 1
+   },
+   {
+    "es": "química",
+    "en": "chemistry",
+    "n": 1
+   }
+  ]
+ },
+ {
+  "es": "Temas",
+  "en": "Topics",
+  "tags": [
+   {
+    "es": "radiación electromagnética",
+    "en": "electromagnetic radiation",
+    "n": 7
+   },
+   {
+    "es": "antenas",
+    "en": "antennas",
+    "n": 6
+   },
+   {
+    "es": "simetrías",
+    "en": "symmetries",
+    "n": 5
+   },
+   {
+    "es": "teoría cuántica de campos",
+    "en": "quantum field theory",
+    "n": 5
+   },
+   {
+    "es": "entrelazamiento",
+    "en": "entanglement",
+    "n": 4
+   },
+   {
+    "es": "espín",
+    "en": "spin",
+    "n": 4
+   },
+   {
+    "es": "interpretaciones de la cuántica",
+    "en": "interpretations of quantum mechanics",
+    "n": 4
+   },
+   {
+    "es": "Maxwell",
+    "en": "Maxwell",
+    "n": 4
+   },
+   {
+    "es": "teoría de la medida cuántica",
+    "en": "quantum measurement",
+    "n": 4
+   },
+   {
+    "es": "velocidad de la luz",
+    "en": "speed of light",
+    "n": 4
+   },
+   {
+    "es": "gravedad cuántica",
+    "en": "quantum gravity",
+    "n": 3
+   },
+   {
+    "es": "interacción débil",
+    "en": "weak interaction",
+    "n": 3
+   },
+   {
+    "es": "masa",
+    "en": "mass",
+    "n": 3
+   },
+   {
+    "es": "modelo estándar",
+    "en": "standard model",
+    "n": 3
+   },
+   {
+    "es": "problemas abiertos",
+    "en": "open problems",
+    "n": 3
+   },
+   {
+    "es": "radiación de cuerpo negro",
+    "en": "blackbody radiation",
+    "n": 3
+   },
+   {
+    "es": "teorema de Bell",
+    "en": "Bell's theorem",
+    "n": 3
+   },
+   {
+    "es": "agujeros negros",
+    "en": "black holes",
+    "n": 2
+   },
+   {
+    "es": "ajuste fino",
+    "en": "fine tuning",
+    "n": 2
+   },
+   {
+    "es": "antimateria",
+    "en": "antimatter",
+    "n": 2
+   },
+   {
+    "es": "caos",
+    "en": "chaos",
+    "n": 2
+   },
+   {
+    "es": "ciencia argentina",
+    "en": "Argentine science",
+    "n": 2
+   },
+   {
+    "es": "dinámica de fluidos",
+    "en": "fluid dynamics",
+    "n": 2
+   },
+   {
+    "es": "electrodinámica cuántica",
+    "en": "quantum electrodynamics",
+    "n": 2
+   },
+   {
+    "es": "entropía",
+    "en": "entropy",
+    "n": 2
+   },
+   {
+    "es": "espacio-tiempo",
+    "en": "spacetime",
+    "n": 2
+   },
+   {
+    "es": "experimento de Stern-Gerlach",
+    "en": "Stern-Gerlach experiment",
+    "n": 2
+   },
+   {
+    "es": "exploración espacial",
+    "en": "space exploration",
+    "n": 2
+   },
+   {
+    "es": "radioafición",
+    "en": "amateur radio",
+    "n": 2
+   },
+   {
+    "es": "reloj",
+    "en": "clock",
+    "n": 2
+   },
+   {
+    "es": "átomo",
+    "en": "atom",
+    "n": 2
+   },
+   {
+    "es": "astrobiología",
+    "en": "astrobiology",
+    "n": 1
+   },
+   {
+    "es": "flecha del tiempo",
+    "en": "arrow of time",
+    "n": 1
+   },
+   {
+    "es": "instrumentación",
+    "en": "instrumentation",
+    "n": 1
+   },
+   {
+    "es": "interferometría",
+    "en": "interferometry",
+    "n": 1
+   },
+   {
+    "es": "lógica matemática",
+    "en": "mathematical logic",
+    "n": 1
+   },
+   {
+    "es": "mecánica lagrangiana",
+    "en": "Lagrangian mechanics",
+    "n": 1
+   },
+   {
+    "es": "metrología",
+    "en": "metrology",
+    "n": 1
+   },
+   {
+    "es": "mujeres en la ciencia",
+    "en": "women in science",
+    "n": 1
+   },
+   {
+    "es": "multiverso",
+    "en": "multiverse",
+    "n": 1
+   },
+   {
+    "es": "núcleo atómico",
+    "en": "atomic nucleus",
+    "n": 1
+   },
+   {
+    "es": "plasma de quarks y gluones",
+    "en": "quark-gluon plasma",
+    "n": 1
+   },
+   {
+    "es": "plásticos",
+    "en": "plastics",
+    "n": 1
+   },
+   {
+    "es": "rayos X",
+    "en": "X-rays",
+    "n": 1
+   }
+  ]
+ },
+ {
+  "es": "Formato",
+  "en": "Format",
+  "tags": [
+   {
+    "es": "animación",
+    "en": "animation",
+    "n": 8
+   },
+   {
+    "es": "conferencia",
+    "en": "talk",
+    "n": 6
+   },
+   {
+    "es": "experimento",
+    "en": "experiment",
+    "n": 4
+   },
+   {
+    "es": "tutorial",
+    "en": "tutorial",
+    "n": 4
+   },
+   {
+    "es": "clase",
+    "en": "lecture",
+    "n": 3
+   },
+   {
+    "es": "entrevista",
+    "en": "interview",
+    "n": 3
+   },
+   {
+    "es": "video ensayo",
+    "en": "video essay",
+    "n": 2
+   },
+   {
+    "es": "defensa de tesis",
+    "en": "thesis defense",
+    "n": 1
+   },
+   {
+    "es": "documental",
+    "en": "documentary",
+    "n": 1
+   },
+   {
+    "es": "opinión",
+    "en": "opinion",
+    "n": 1
+   }
+  ]
+ }
+]
