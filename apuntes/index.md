@@ -27,7 +27,7 @@ Simulaciones interactivas para explorar fenómenos físicos.
 
 ## Calcium-40 Ion numbers
 
-Mantengo esta recopilación de datos del ion de calcio-40 (<sup>40</sup>Ca<sup>+</sup>) en el repositorio
+Mantengo esta recopilación de datos (<sup>40</sup>Ca<sup>+</sup>) en el documento
 [ca40-numbers](https://code.df.uba.ar/m.luda/ca40-numbers/).
 
 <div class="text-center"><a href="https://code.df.uba.ar/m.luda/ca40-numbers/-/raw/master/Ca40_numbers_v1.0.5.pdf" class="btn btn-primary btn-lg" role="button" target="_blank" rel="noopener"><i class="fa fa-file-pdf-o"></i> PDF</a></div>
