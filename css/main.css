@@ -1152,3 +1152,36 @@ td.gutter {
   color: #555;
   background: none;
 }
+
+/* Comandos con botón Copiar (_includes/copy-cmd.html, Instalación rápida de /redpitaya/) */
+.copy-cmd {
+  margin: 12px 0 18px;
+}
+.copy-cmd-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+.copy-cmd-os {
+  font-weight: bold;
+}
+.copy-cmd-btn.copied {
+  color: #3c763d;
+  border-color: #3c763d;
+}
+.copy-cmd-code {
+  margin: 0;
+  padding: 10px 12px;
+  background: #272822;
+  color: #f8f8f2;
+  border: 0;
+  border-radius: 4px;
+  overflow-x: auto;
+  white-space: pre;
+}
+.copy-cmd-code code {
+  color: inherit;
+  background: none;
+  font-size: 14px;
+}

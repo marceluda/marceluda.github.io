@@ -3,6 +3,8 @@ layout: page
 title: Red Pitaya Projects
 subtitle: Applications for laboratory instrumentation
 permalink: /redpitaya/en/
+js:
+  - /js/copy-cmd.js
 ---
 
 <div class="text-right">
@@ -25,6 +27,22 @@ RedPitaya-FPGA [Release_2025.2](https://github.com/RedPitaya/RedPitaya-FPGA/rele
 
 Lock-in+PID Plus and Lock-in+PID SQ are only available as 2.x.
 </div>
+
+## Fast install {#fast-install}
+
+A single line in a terminal installs these Apps on your Red Pitaya. Copy the line for your system, paste it in a
+terminal and follow the instructions: the installer lets you choose the Apps, asks for the address of the Red Pitaya
+(for example `rp-xxxxxx.local`, its IP or the URL you use in the browser) and uploads them by SSH
+(the factory password of `root` is `root`).
+
+{% include copy-cmd.html icon="fa-linux" label="Linux (terminal)" copy="Copy" copied="Copied!" cmd="bash <(curl -fsSL https://marceluda.github.io/redpitaya/install_rp_apps.sh)" %}
+{% include copy-cmd.html icon="fa-windows" label="Windows 10 / 11 (PowerShell)" copy="Copy" copied="Copied!" cmd="irm https://marceluda.github.io/redpitaya/install_rp_apps.ps1 | iex" %}
+
+It installs the newest version of each App, the one listed in
+[last_stables.txt]({{ site.baseurl }}/redpitaya/downloads/last_stables.txt) (currently the 2.x versions, for Ecosystem 2.0).
+You can look at the scripts before running them:
+[install_rp_apps.sh]({{ site.baseurl }}/redpitaya/install_rp_apps.sh) ·
+[install_rp_apps.ps1]({{ site.baseurl }}/redpitaya/install_rp_apps.ps1).
 
 <div class="text-center">
   <a href="{{ site.baseurl }}/redpitaya/en/versions/" class="btn btn-default btn-sm" role="button"><i class="fa fa-archive"></i> All versions</a>

@@ -1,0 +1,9 @@
+{%- comment -%}
+  Comando para copiar con un botón. Parámetros: icon (fa-linux, fa-windows), label, cmd, copy, copied.
+  El botón lo maneja js/copy-cmd.js (la página tiene que listarlo en su front matter "js").
+{%- endcomment -%}
+<div class="copy-cmd">
+  <div class="copy-cmd-head"><span class="copy-cmd-os"><i class="fa {{ include.icon }}" aria-hidden="true"></i> {{ include.label }}</span>
+  <button type="button" class="btn btn-default btn-xs copy-cmd-btn" data-copied="{{ include.copied }}"><i class="fa fa-clipboard" aria-hidden="true"></i> <span>{{ include.copy }}</span></button></div>
+  <pre class="copy-cmd-code"><code>{{ include.cmd | escape }}</code></pre>
+</div>

@@ -2,6 +2,8 @@
 layout: page
 title: Proyectos Red Pitaya
 subtitle: Aplicaciones para instrumentación de laboratorio
+js:
+  - /js/copy-cmd.js
 ---
 
 <div class="text-right">
@@ -24,6 +26,22 @@ herramientas útiles en un laboratorio de óptica y física atómica.
 
 Lock-in+PID Plus y Lock-in+PID SQ sólo existen en versión 2.x.
 </div>
+
+## Instalación rápida {#instalacion-rapida}
+
+Con una sola línea en una terminal se pueden instalar estas Apps en tu Red Pitaya. Copiá la línea de tu sistema,
+pegala en una terminal y seguí las instrucciones: el instalador te deja elegir las Apps, te pide la dirección de la
+Red Pitaya (por ejemplo `rp-xxxxxx.local`, su IP o la URL que usás en el navegador) y las sube por SSH
+(la clave de fábrica de `root` es `root`).
+
+{% include copy-cmd.html icon="fa-linux" label="Linux (terminal)" copy="Copiar" copied="¡Copiado!" cmd="bash <(curl -fsSL https://marceluda.github.io/redpitaya/install_rp_apps.sh)" %}
+{% include copy-cmd.html icon="fa-windows" label="Windows 10 / 11 (PowerShell)" copy="Copiar" copied="¡Copiado!" cmd="irm https://marceluda.github.io/redpitaya/install_rp_apps.ps1 | iex" %}
+
+Instala la última versión de cada App, la que figura en
+[last_stables.txt]({{ site.baseurl }}/redpitaya/downloads/last_stables.txt) (hoy, las 2.x para el ecosistema 2.0).
+Antes de correrlos podés ver los scripts:
+[install_rp_apps.sh]({{ site.baseurl }}/redpitaya/install_rp_apps.sh) ·
+[install_rp_apps.ps1]({{ site.baseurl }}/redpitaya/install_rp_apps.ps1).
 
 <div class="text-center">
   <a href="{{ site.baseurl }}/redpitaya/en/versions/" class="btn btn-default btn-sm" role="button"><i class="fa fa-archive"></i> Todas las versiones</a>
