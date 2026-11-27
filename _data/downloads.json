@@ -1,0 +1,572 @@
+[
+ {
+  "name": "dummy_simulator",
+  "version": "0.1.4-7",
+  "files": [
+   {
+    "file": "dummy_simulator-0.1.4-7-devbuild.tar.gz",
+    "md5": "b153b7e221798c9f3f374eaee485e1d0"
+   },
+   {
+    "file": "dummy_simulator-0.1.4-7-devbuild.zip",
+    "md5": "fadc19ef749f4595a115723c406b6e86"
+   }
+  ]
+ },
+ {
+  "name": "dummy_simulator",
+  "version": "0.1.2-4",
+  "files": [
+   {
+    "file": "dummy_simulator-0.1.2-4-devbuild.tar.gz",
+    "md5": "cdc7d9c1b44a233b74d823af6777c0bf"
+   },
+   {
+    "file": "dummy_simulator-0.1.2-4-devbuild.zip",
+    "md5": "91b2923075618e2c1baeffe13ef9fdfb"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.18-37",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.18-37-devbuild.tar.gz",
+    "md5": "d1afd9cd23fcbdc5b58a11abdc77ca2d"
+   },
+   {
+    "file": "lock_in+pid-2.2.18-37-devbuild.zip",
+    "md5": "429fe9da338f428dcc0d90a4442ddce6"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.15-30",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.15-30-devbuild.tar.gz",
+    "md5": "604e4ad0a2945960a31b1928e3653bd3"
+   },
+   {
+    "file": "lock_in+pid-2.2.15-30-devbuild.zip",
+    "md5": "59d81b1f97245e0c19afa23fc95130ce"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.13-28",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.13-28-devbuild.tar.gz",
+    "md5": "b03aca255330341d78150e427c1fea4a"
+   },
+   {
+    "file": "lock_in+pid-2.2.13-28-devbuild.zip",
+    "md5": "f3249ee3db50077b8e5dddb540338f38"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.11-26",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.11-26-devbuild.tar.gz",
+    "md5": "3d4d287302186b00727dda05bfc664e0"
+   },
+   {
+    "file": "lock_in+pid-2.2.11-26-devbuild.zip",
+    "md5": "fba3f85cca239b17da617026f4bacd69"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.9-21",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.9-21-devbuild.tar.gz",
+    "md5": "105278145f7530a21057442a86265b7a"
+   },
+   {
+    "file": "lock_in+pid-2.2.9-21-devbuild.zip",
+    "md5": "8cb14a898d818bbad2f072de2e895a07"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "2.2.8-18",
+  "files": [
+   {
+    "file": "lock_in+pid-2.2.8-18-devbuild.tar.gz",
+    "md5": "244b7ec0e2b107b94a93c9e896fe8c9d"
+   },
+   {
+    "file": "lock_in+pid-2.2.8-18-devbuild.zip",
+    "md5": "d30c822ac3364da0c1c3e9307ad06ce1"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "0.2.4-11",
+  "files": [
+   {
+    "file": "lock_in+pid-0.2.4-11-devbuild.tar.gz",
+    "md5": "49128b9631ff4c05035283559bd179ed"
+   },
+   {
+    "file": "lock_in+pid-0.2.4-11-devbuild.zip",
+    "md5": "e854234f2a88ca45c3437b326d2afbe5"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid",
+  "version": "0.2.3-7",
+  "files": [
+   {
+    "file": "lock_in+pid-0.2.3-7-devbuild.tar.gz",
+    "md5": "5f852475ad288db7035f50d393fb0afd"
+   },
+   {
+    "file": "lock_in+pid-0.2.3-7-devbuild.zip",
+    "md5": "e572255f82c01aae84b1132dc9a76004"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.33-76",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.33-76-devbuild.tar.gz",
+    "md5": "dabc66cfc48def4cc396e41faa3810d5"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.33-76-devbuild.zip",
+    "md5": "bdab2e14c130c952f81e2b7a69459ad3"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.30-72",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.30-72-devbuild.tar.gz",
+    "md5": "473107434b24c10c1e1d4be45fcc9b21"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.30-72-devbuild.zip",
+    "md5": "91631408a8f65c50642b9cf9832fa5c3"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.28-70",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.28-70-devbuild.tar.gz",
+    "md5": "166ab084590158180733c8d7642ef8d4"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.28-70-devbuild.zip",
+    "md5": "d80561e877938d86156f6879f5ea1dd6"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.26-62",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.26-62-devbuild.tar.gz",
+    "md5": "bed60a69bbe54be942f0b94dec10bc27"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.26-62-devbuild.zip",
+    "md5": "af5cb8e7b301a17285112392107f7a70"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.23-57",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.23-57-devbuild.tar.gz",
+    "md5": "975d9f957ffb788fb24b9f3aca9e0100"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.23-57-devbuild.zip",
+    "md5": "c2e971a93871316db5dcc3bb4f01883b"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "2.3.20-46",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-2.3.20-46-devbuild.tar.gz",
+    "md5": "d5f0a966471a46e2e907623fa81a3927"
+   },
+   {
+    "file": "lock_in+pid_harmonic-2.3.20-46-devbuild.zip",
+    "md5": "694a762af3df98c0ede0aa33bba1d50a"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic",
+  "version": "0.3.11-17",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic-0.3.11-17-devbuild.tar.gz",
+    "md5": "d76192536091f34f2672664c31425998"
+   },
+   {
+    "file": "lock_in+pid_harmonic-0.3.11-17-devbuild.zip",
+    "md5": "d356dcb603b9fb3932b943adaed881ce"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.16-31",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.16-31-devbuild.tar.gz",
+    "md5": "79fbf96cb9d933a77b4db7905bc90f9f"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.16-31-devbuild.zip",
+    "md5": "4074b5cfd0ff84d5b9c30b8c2f25b300"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.13-27",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.13-27-devbuild.tar.gz",
+    "md5": "b17a0d619fa5de2b239d1edcc148c88a"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.13-27-devbuild.zip",
+    "md5": "21aff04255918653044375788749b7dc"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.11-25",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.11-25-devbuild.tar.gz",
+    "md5": "4bd59e9cd614e86bced8b3f8d65d99ef"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.11-25-devbuild.zip",
+    "md5": "8ac79230ef12cae19c4dae4ed937c4e2"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.9-23",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.9-23-devbuild.tar.gz",
+    "md5": "ceb85fd8bfd49683da28a24c5616cc05"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.9-23-devbuild.zip",
+    "md5": "f6a0be6581ba281823b452065eeac096"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.7-18",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.7-18-devbuild.tar.gz",
+    "md5": "83911a2eadaea4b29c9c4bd191757f3c"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.7-18-devbuild.zip",
+    "md5": "ffcc9a949ca061cab5d1102198635d09"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "2.4.6-16",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-2.4.6-16-devbuild.tar.gz",
+    "md5": "6c2ff0db73ff1c6133d3fa80f5cbd30c"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-2.4.6-16-devbuild.zip",
+    "md5": "0745b725ff2b1802ce71351a26133d3a"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic2",
+  "version": "0.4.2-10",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic2-0.4.2-10-devbuild.tar.gz",
+    "md5": "83cb15d8edac2620ac91683242cb1398"
+   },
+   {
+    "file": "lock_in+pid_harmonic2-0.4.2-10-devbuild.zip",
+    "md5": "8b8eaddaf489d3a1afe131b847ee443a"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.23-29",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.23-29-devbuild.tar.gz",
+    "md5": "7fee7f662510dd7bf218c6cc919989e0"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.23-29-devbuild.zip",
+    "md5": "2a0a475d469ddae1ea228eb0f084b6d8"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.20-25",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.20-25-devbuild.tar.gz",
+    "md5": "0781122c24075645f94a157de7a919f6"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.20-25-devbuild.zip",
+    "md5": "2461128f31126c990650f9929ddb0819"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.18-23",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.18-23-devbuild.tar.gz",
+    "md5": "16d8ca026669fa6390443dcce9b40f65"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.18-23-devbuild.zip",
+    "md5": "802b8eaf2fc724252fdbf67e6a818ba3"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.16-21",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.16-21-devbuild.tar.gz",
+    "md5": "b82f8a7b71c83d06689521dd0a233e23"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.16-21-devbuild.zip",
+    "md5": "e85f85a425c3487224dd70054915d406"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.14-16",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.14-16-devbuild.tar.gz",
+    "md5": "1a0b5ea6bb8178e1fad415475d5f4ac1"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.14-16-devbuild.zip",
+    "md5": "19cf999eef231bed84df0d68f411309f"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "2.3.13-14",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.13-14-devbuild.tar.gz",
+    "md5": "d81a4c79387845c2bdd1ec0e2bfbfc42"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-2.3.13-14-devbuild.zip",
+    "md5": "d58f5e22605d3d2f00553d4516b12f58"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_harmonic_hf",
+  "version": "0.3.9-7",
+  "files": [
+   {
+    "file": "lock_in+pid_harmonic_hf-0.3.9-7-devbuild.tar.gz",
+    "md5": "8430274d924440636f38dcb1e7bc9693"
+   },
+   {
+    "file": "lock_in+pid_harmonic_hf-0.3.9-7-devbuild.zip",
+    "md5": "faa17f73f54070ec49351fb780c81a5c"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_plus",
+  "version": "2.2.2-22",
+  "files": [
+   {
+    "file": "lock_in+pid_plus-2.2.2-22-devbuild.tar.gz",
+    "md5": "dc6d6f3b76b38d8e6d7ebba623f1f274"
+   },
+   {
+    "file": "lock_in+pid_plus-2.2.2-22-devbuild.zip",
+    "md5": "ee10afebc97c43a01224071e4e3bbc10"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_plus",
+  "version": "2.2.0-18",
+  "files": [
+   {
+    "file": "lock_in+pid_plus-2.2.0-18-devbuild.tar.gz",
+    "md5": "adf0f16e53aed632fb24b5427d389efb"
+   },
+   {
+    "file": "lock_in+pid_plus-2.2.0-18-devbuild.zip",
+    "md5": "17733e8d822c6c044da854d20102ad2c"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.12-23",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.12-23-devbuild.tar.gz",
+    "md5": "73d4f93a0a8e55f92af5b18578c0626f"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.12-23-devbuild.zip",
+    "md5": "e97eb34250044bd3f003fec99f0c072b"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.9-19",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.9-19-devbuild.tar.gz",
+    "md5": "9a40b9499cd2b6ae473e50c3c222bd6d"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.9-19-devbuild.zip",
+    "md5": "759a2defa44e91d68548bf2842d4d73b"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.7-17",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.7-17-devbuild.tar.gz",
+    "md5": "6c2f8313f8cebefbc0101a2620ed46da"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.7-17-devbuild.zip",
+    "md5": "46833b1918c242b8bdfd5d051073b811"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.5-15",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.5-15-devbuild.tar.gz",
+    "md5": "cc8e4ae9f6f841a19a8ead644e0608cd"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.5-15-devbuild.zip",
+    "md5": "3ec9b7a76bfa0c1997827b6146d9a979"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.3-11",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.3-11-devbuild.tar.gz",
+    "md5": "6ee7438f73b7cbf412d8f6fb2ad23a1b"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.3-11-devbuild.zip",
+    "md5": "986a6251256a3e17343dc107366b9648"
+   }
+  ]
+ },
+ {
+  "name": "lock_in+pid_square",
+  "version": "2.0.2-9",
+  "files": [
+   {
+    "file": "lock_in+pid_square-2.0.2-9-devbuild.tar.gz",
+    "md5": "d5f5c2667f804ec969fa5917d7e15e56"
+   },
+   {
+    "file": "lock_in+pid_square-2.0.2-9-devbuild.zip",
+    "md5": "1651b3b0b63b2af9ca461c549287e0ff"
+   }
+  ]
+ },
+ {
+  "name": "rp_dummy",
+  "version": "",
+  "files": [
+   {
+    "file": "rp_dummy.zip",
+    "md5": "720ea33dec5d9f25a014f6ab18118fdb"
+   }
+  ]
+ },
+ {
+  "name": "scope++",
+  "version": "1.1.1-4",
+  "files": [
+   {
+    "file": "scope++-1.1.1-4-devbuild.tar.gz",
+    "md5": "b11c639b8d22184ee3f7f672b4ff01fb"
+   },
+   {
+    "file": "scope++-1.1.1-4-devbuild.zip",
+    "md5": "11ca208b80e6f3b5f5e909f3a12c4e0b"
+   }
+  ]
+ }
+]

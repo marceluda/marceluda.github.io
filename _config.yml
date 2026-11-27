@@ -199,6 +199,7 @@ exclude:
   - Vagrantfile
   - build-local.sh
   - sync-videos.py
+  - sync-downloads.py
   - _config_local.yml
 
 # prose.io config

@@ -1,0 +1,17 @@
+dummy_simulator-0.1.4-7-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/dummy_simulator-0.1.4-7-devbuild.tar.gz
+dummy_simulator-0.1.4-7-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/dummy_simulator-0.1.4-7-devbuild.zip
+lock_in+pid-2.2.18-37-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid-2.2.18-37-devbuild.tar.gz
+lock_in+pid-2.2.18-37-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid-2.2.18-37-devbuild.zip
+lock_in+pid_harmonic-2.3.33-76-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic-2.3.33-76-devbuild.tar.gz
+lock_in+pid_harmonic-2.3.33-76-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic-2.3.33-76-devbuild.zip
+lock_in+pid_harmonic2-2.4.16-31-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic2-2.4.16-31-devbuild.tar.gz
+lock_in+pid_harmonic2-2.4.16-31-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic2-2.4.16-31-devbuild.zip
+lock_in+pid_harmonic_hf-2.3.23-29-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic_hf-2.3.23-29-devbuild.tar.gz
+lock_in+pid_harmonic_hf-2.3.23-29-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_harmonic_hf-2.3.23-29-devbuild.zip
+lock_in+pid_plus-2.2.2-22-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_plus-2.2.2-22-devbuild.tar.gz
+lock_in+pid_plus-2.2.2-22-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_plus-2.2.2-22-devbuild.zip
+lock_in+pid_square-2.0.12-23-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_square-2.0.12-23-devbuild.tar.gz
+lock_in+pid_square-2.0.12-23-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/lock_in+pid_square-2.0.12-23-devbuild.zip
+rp_dummy.zip	https://marceluda.github.io/redpitaya/downloads/rp_dummy.zip
+scope++-1.1.1-4-devbuild.tar.gz	https://marceluda.github.io/redpitaya/downloads/scope++-1.1.1-4-devbuild.tar.gz
+scope++-1.1.1-4-devbuild.zip	https://marceluda.github.io/redpitaya/downloads/scope++-1.1.1-4-devbuild.zip

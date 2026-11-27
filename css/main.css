@@ -1120,3 +1120,35 @@ td.gutter {
 .apunte-section .btn-lg {
   margin-top: 10px;
 }
+
+/* Tabla de paquetes en /redpitaya/downloads/ (datos de sync-downloads.py) */
+.downloads-wrap {
+  /* La tabla es más ancha que la columna de texto: se centra sobre el ancho de la ventana. */
+  width: min(1180px, calc(100vw - 32px));
+  margin: 18px 0 36px 50%;
+  transform: translateX(-50%);
+  overflow-x: auto;
+}
+.downloads-table {
+  margin: 0 auto;
+}
+.downloads-table {
+  font-size: 14px;
+  white-space: nowrap;
+}
+.downloads-table td {
+  vertical-align: top;
+  line-height: 1.8;
+}
+.downloads-table .dl-name,
+.downloads-table .dl-version,
+.downloads-table .dl-files,
+.downloads-table .dl-md5 {
+  font-family: monospace;
+}
+.downloads-table .dl-md5 code {
+  font: inherit;
+  padding: 0;
+  color: #555;
+  background: none;
+}
